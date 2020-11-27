@@ -1,410 +1,742 @@
 <!DOCTYPE html>
-<html lang="en-US">
+<html lang="en">
+
+
 <?php include'includes/head.php';?>
-<body id="top">
- <?php include'includes/header.php';?>
- <div class="page-content">
-  <div>
-    <div class="da-section da-work bg-secondary" id="learn">
-      <div class="container">
-        <div class="h3 pb-3 text-center text-white" data-aos="fade-up">Why Work With Us?</div>
-        <p class="px-5 pb-5 text-center text-white" data-aos="fade-up">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
-        <div class="row">
-          <div class="col-md-4">
-            <div class="card mb-3" data-aos="flip-left">
-              <div class="card-body mt-4 mb-1 text-center"><i class="pb-3 text-primary fas fa-briefcase fa-3x"></i>
-                <div class="h4 pb-3">Experience</div>
-                <p>Lorem ipsum dolor sit amet consectetur adipiscing elit primis rutrum, nullam tempor malesuada laoreet tempus blandit pretium etc.</p>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-4">
-            <div class="card mb-3" data-aos="zoom-in-up">
-              <div class="card-body mt-4 mb-1 text-center"><i class="pb-3 text-primary fas fa-sliders-h fa-3x"></i>
-                <div class="h4 pb-3">Flexibility</div>
-                <p>Lorem ipsum dolor sit amet consectetur adipiscing elit primis rutrum, nullam tempor malesuada laoreet tempus blandit pretium etc.</p>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-4">
-            <div class="card mb-3" data-aos="flip-right">
-              <div class="card-body mt-4 mb-1 text-center"><i class="pb-3 text-primary fas fa-trophy fa-3x"></i>
-                <div class="h4 pb-3">Results</div>
-                <p>Lorem ipsum dolor sit amet consectetur adipiscing elit primis rutrum, nullam tempor malesuada laoreet tempus blandit pretium etc.</p>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-    <div class="da-section bg-light" id="services">
-      <div class="da-services">
-        <div class="container text-center">
-          <div class="h3 pb-5 text-center" data-aos="fade-up">Our Services</div>
-          <div class="row">
-            <div class="col-lg-3 col-md-6">
-              <div class="card mb-3">
-                <div class="card-body py-5" data-aos="zoom-in" data-aos-duration="500">
-                  <div class="text-primary"><i class="pb-3 fas fa-code fa-3x"></i>
-                    <p class="font-weight-bold">Web Design</p>
-                  </div>
-                  <p>Lorem ipsum dolor sit amet consectetur adipiscing elit primis rutrum, nullam tempor malesuada laoreet tempus blandit pretium etc.</p>
-                </div>
-              </div>
-            </div>
-            <div class="col-lg-3 col-md-6">
-              <div class="card mb-3">
-                <div class="card-body py-5" data-aos="zoom-in" data-aos-duration="1000">
-                  <div class="text-primary"><i class="pb-3 fab fa-buromobelexperte fa-3x"></i>
-                    <p class="font-weight-bold">Graphic Design</p>
-                  </div>
-                  <p>Lorem ipsum dolor sit amet consectetur adipiscing elit primis rutrum, nullam tempor malesuada laoreet tempus blandit pretium etc.</p>
-                </div>
-              </div>
-            </div>
-            <div class="col-lg-3 col-md-6">
-              <div class="card mb-3">
-                <div class="card-body py-5" data-aos="zoom-in" data-aos-duration="1500">
-                  <div class="text-primary"><i class="pb-3 fas fa-cubes fa-3x"></i>
-                    <p class="font-weight-bold">App Development</p>
-                  </div>
-                  <p>Lorem ipsum dolor sit amet consectetur adipiscing elit primis rutrum, nullam tempor malesuada laoreet tempus blandit pretium etc.</p>
-                </div>
-              </div>
-            </div>
-            <div class="col-lg-3 col-md-6">
-              <div class="card mb-3">
-                <div class="card-body py-5" data-aos="zoom-in" data-aos-duration="2000">
-                  <div class="text-primary"><i class="pb-3 fas fa-eye fa-3x"></i>
-                    <p class="font-weight-bold">Application Support</p>
-                  </div>
-                  <p>Lorem ipsum dolor sit amet consectetur adipiscing elit primis rutrum, nullam tempor malesuada laoreet tempus blandit pretium etc.</p>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-    <div class="da-projects" id="projects">
-      <div class="row mx-0">
-        <div class="col-md-6 px-0 da-project-1" style="background-image: url('images/da-img-2.jpg');" data-aos="zoom-in"></div>
-        <div class="col-md-6 pl-5 pt-5 pb-3">
-          <div class="row">
-            <div class="col-1 da-project-icon"><i class="text-warning fas fa-user-md fa-2x fa-fw"></i></div>
-            <div class="col-10">
-              <div class="h4">Healthcare</div>
-              <p>Lorem ipsum dolor sit amet consectetur adipiscing elit primis rutrum, nullam tempor malesuada laoreet tempus blandit pretium etc.</p>
-            </div>
-          </div>
-          <div class="row mb-3">
-            <div class="col-1 da-project-icon"><i class="text-info fas fa-book fa-2x fa-fw"></i></div>
-            <div class="col-10">
-              <div class="h4">Education</div>
-              <p>Lorem ipsum dolor sit amet consectetur adipiscing elit primis rutrum, nullam tempor malesuada laoreet tempus blandit pretium etc.</p>
-            </div>
-          </div>
-          <div class="row">
-            <div class="col-1 da-project-icon"><i class="fas fa-shopping-basket fa-2x fa-fw"></i></div>
-            <div class="col-10">
-              <div class="h4">Digital Retail</div>
-              <p>Lorem ipsum dolor sit amet consectetur adipiscing elit primis rutrum, nullam tempor malesuada laoreet tempus blandit pretium etc.</p>
-            </div>
-          </div>
-        </div>
-      </div>
-      <div class="row mx-0">
-        <div class="col-md-6 pl-5 pt-5 pb-3">
-          <div class="row mb-3">
-            <div class="col-1 da-project-icon"><i class="text-warning fas fa-money-bill-alt fa-2x fa-fw"></i></div>
-            <div class="col-10">
-              <div class="h4">Finance</div>
-              <p>Lorem ipsum dolor sit amet consectetur adipiscing elit primis rutrum, nullam tempor malesuada laoreet tempus blandit pretium etc.</p>
-            </div>
-          </div>
-          <div class="row mb-3">
-            <div class="col-1 da-project-icon"><i class="text-info far fa-chart-bar fa-2x fa-fw"></i></div>
-            <div class="col-10">
-              <div class="h4">Marketing</div>
-              <p>Lorem ipsum dolor sit amet consectetur adipiscing elit primis rutrum, nullam tempor malesuada laoreet tempus blandit pretium etc.</p>
-            </div>
-          </div>
-          <div class="row">
-            <div class="col-1 da-project-icon"><i class="fas fa-music fa-2x fa-fw"></i></div>
-            <div class="col-10">
-              <div class="h4">Entertainment</div>
-              <p>Lorem ipsum dolor sit amet consectetur adipiscing elit primis rutrum, nullam tempor malesuada laoreet tempus blandit pretium etc.</p>
-            </div>
-          </div>
-        </div>
-        <div class="col-md-6 px-0 da-project-2" style="background-image: url('images/da-img-5.jpg');" data-aos="zoom-in"></div>
-      </div>
-    </div>
-    <div class="da-expertise">
-      <div class="row mx-0">
-        <div class="col-md-6 px-0 da-exp-image" style="background-image: url('images/da-img-6.jpg');" data-aos="zoom-in"></div>
-        <div class="col-md-6 da-exp-skills">
-          <div class="container text-uppercase">
-            <h3 class="h5 mb-5">Our Expertise</h3>
-            <div class="col px-0 mb-4">
-              <p>Web Design 85%</p>
-              <div class="progress" style="height: 5px;">
-                <div class="progress-bar" data-aos="progress-full" data-aos-offset="10" data-aos-duration="2000" role="progressbar" style="width: 85%;" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
-              </div>
-            </div>
-            <div class="col px-0 mb-4">
-              <p>Mobile App 70%</p>
-              <div class="progress" style="height: 5px;">
-                <div class="progress-bar" data-aos="progress-full" data-aos-offset="10" data-aos-duration="2000" role="progressbar" style="width: 70%;" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
-              </div>
-            </div>
-            <div class="col px-0 mb-4">
-              <p>Graphic Design 90%</p>
-              <div class="progress" style="height: 5px;">
-                <div class="progress-bar" data-aos="progress-full" data-aos-offset="10" data-aos-duration="2000" role="progressbar" style="width: 90%;" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
-              </div>
-            </div>
-            <div class="col px-0 mb-4">
-              <p>Digital Marketing 75%</p>
-              <div class="progress" style="height: 5px;">
-                <div class="progress-bar" data-aos="progress-full" data-aos-offset="10" data-aos-duration="2000" role="progressbar" style="width: 75%;" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-    <div class="da-section bg-secondary text-white">
-      <div class="container">
-        <div class="row px-4">
-          <div class="col-md-3 col-sm-6">
-            <div class="media py-2" data-aos="flip-up"><i class="mr-3 fas fa-clipboard-check  fa-3x fa-fw"></i>
-              <div class="media-body">
-                <div class="h5">1575</div>
-                <div class="h6">Projects Done</div>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-3 col-sm-6">
-            <div class="media py-2" data-aos="flip-up"><i class="mr-3 fas fa-smile  fa-3x fa-fw"></i>
-              <div class="media-body">
-                <div class="h5">1245</div>
-                <div class="h6">Happy Clients</div>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-3 col-sm-6">
-            <div class="media py-2" data-aos="flip-up"><i class="mr-3 fas fa-file-alt fa-3x fa-fw"></i>
-              <div class="media-body">
-                <div class="h5">865</div>
-                <div class="h6">Appreciations</div>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-3 col-sm-6">
-            <div class="media py-2" data-aos="flip-up"><i class="mr-3 fas fa-clock  fa-3x fa-fw"></i>
-              <div class="media-body">
-                <div class="h5">8565</div>
-                <div class="h6">Working Hours</div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-    <div class="da-section">
-      <div class="container">
-        <div class="h3 text-center" data-aos="fade-up">Meet our Team Members</div>
-      </div>
-      <div class="da-team carousel slide py-5" id="da-carouselIndicator" data-ride="carousel" data-aos="zoom-in-up" data-aos-duration="1000">
-        <div class="container">
-          <ol class="carousel-indicators">
-            <li class="active" data-target="#da-carouselIndicator" data-slide-to="0"></li>
-            <li data-target="#da-carouselIndicator" data-slide-to="1"></li>
-          </ol>
-          <div class="carousel-inner">
-            <div class="carousel-item active">
-              <div class="row">
-                <div class="col-md-4">
-                  <div class="card d-block mb-3"><img class="card-img-top" src="images/da-emp-1.jpg" alt="image"/>
-                    <div class="card-body text-center">
-                      <div class="h5">Pamela Lopez</div>
-                      <p class="text-muted">CEO</p>
-                    </div>
-                  </div>
-                </div>
-                <div class="col-md-4">
-                  <div class="card d-block mb-3"><img class="card-img-top" src="images/da-emp-2.jpg" alt="image"/>
-                    <div class="card-body text-center">
-                      <div class="h5">John Bowman</div>
-                      <p class="text-muted">Graphic Designer</p>
-                    </div>
-                  </div>
-                </div>
-                <div class="col-md-4">
-                  <div class="card d-block mb-3"><img class="card-img-top" src="images/da-emp-3.jpg" alt="image"/>
-                    <div class="card-body text-center">
-                      <div class="h5">Mark Shaw</div>
-                      <p class="text-muted">Software Developer</p>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-            <div class="carousel-item">
-              <div class="row">
-                <div class="col-md-4">
-                  <div class="card d-block mb-3"><img class="card-img-top" src="images/da-emp-4.jpg" alt="image"/>
-                    <div class="card-body text-center">
-                      <div class="h5">Melissa Long</div>
-                      <p class="text-muted">Software Developer</p>
-                    </div>
-                  </div>
-                </div>
-                <div class="col-md-4">
-                  <div class="card d-block mb-3"><img class="card-img-top" src="images/da-emp-5.jpg" alt="image"/>
-                    <div class="card-body text-center">
-                      <div class="h5">Betty West</div>
-                      <p class="text-muted">Software Developer</p>
-                    </div>
-                  </div>
-                </div>
-                <div class="col-md-4">
-                  <div class="card d-block mb-3"><img class="card-img-top" src="images/da-emp-6.jpg" alt="image"/>
-                    <div class="card-body text-center">
-                      <div class="h5">Jeremy Little</div>
-                      <p class="text-muted">Software Developer</p>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-    <div class="container da-gallery" id="gallery">
-      <div class="h3 pb-5 text-center" data-aos="fade-up">Photo Gallery</div>
-      <div class="card-columns">
-        <div class="card"><a href="images/gallery-img-3.jpg" data-toggle="lightbox" data-gallery="da-gallery"><img class="img-fluid" src="images/gallery-img-3.jpg" alt="Gallery Image 1"/></a></div>
-        <div class="card"><a href="images/gallery-img-5.jpg" data-toggle="lightbox" data-gallery="da-gallery"><img class="img-fluid" src="images/gallery-img-5.jpg" alt="Gallery Image 2"/></a></div>
-        <div class="card"><a href="images/gallery-img-4.jpg" data-toggle="lightbox" data-gallery="da-gallery"><img class="img-fluid" src="images/gallery-img-4.jpg" alt="Gallery Image 3"/></a></div>
-        <div class="card"><a href="images/gallery-img-1.jpg" data-toggle="lightbox" data-gallery="da-gallery"><img class="img-fluid" src="images/gallery-img-1.jpg" alt="Gallery Image 4"/></a></div>
-        <div class="card"><a href="images/gallery-img-2.jpg" data-toggle="lightbox" data-gallery="da-gallery"><img class="img-fluid" src="images/gallery-img-2.jpg" alt="Gallery Image 5"/></a></div>
-      </div>
-    </div>
-    <div class="da-section">
-      <div class="container da-company-brand py-5">
-        <div class="h3 pb-3 text-uppercase text-center" data-aos="fade-up">Featured in</div>
-        <!-- <p class="pb-3 text-center" data-aos="fade-up">Lorem ipsum dolor sit amet consectetur adipiscing elit primis rutrum, <br/>nullam tempor malesuada laoreet tempus</p> -->
-        <div class="row">
-          <div class="col-md-3 text-center"><img class="img-fluid" src="images/Travelog-Holidays.png" alt="Company Image 1"/></div>
-          <div class="col-md-3 text-center"><img class="img-fluid" src="images/Travelog-immigration.png" alt="Company Image 2"/></div>
-          <div class="col-md-3 text-center"><img class="img-fluid" src="images/trustdoc-final.png" alt="Company Image 3"/></div>
-          <div class="col-md-3 text-center"><img class="img-fluid" src="images/jwdmclogo.png" alt="Company Image 4"/></div>
-          <div class="col-md-3 text-center"><img class="img-fluid" src="images/hotelworld.png" alt="Company Image 4"/></div>
-          <!-- <div class="col-md-3 text-center"><img class="img-fluid" src="images/hotelworld.png" alt="Company Image 4"/></div> -->
-        </div>
-      </div>
-    </div>
-  </div>
-<!-- <div class="da-section da-brand bg-secondary">
-  <div class="container text-center text-white">
-    <div class="carousel slide pb-5" id="da-brand-carouselIndicator" data-ride="carousel">
-      <ol class="carousel-indicators">
-        <li class="active" data-target="#da-brand-carouselIndicator" data-slide-to="0"></li>
-        <li data-target="#da-brand-carouselIndicator" data-slide-to="1"></li>
-        <li data-target="#da-brand-carouselIndicator" data-slide-to="2"></li>
-      </ol>
-      <div class="carousel-inner">
-        <div class="carousel-item active">
-          <div class="row justify-content-center">
-            <div class="col-md-8">
-              <p>"Lorem ipsum dolor sit amet consectetur adipiscing elit feugiat tellus sociosqu ornare, morbi risus urna tincidunt mus curabitur vel non massa natoque. Pretium tristique eget nulla sem condimentum ligula eu ultrices convallis, ridiculus nibh bibendum posuere consequat tempus blandit donec."</p>
-              <div class="h6 text-uppercase">Lorem Ipsum</div>
-            </div>
-          </div>
-        </div>
-        <div class="carousel-item">
-          <div class="row justify-content-center">
-            <div class="col-md-8">
-              <p>"Lorem ipsum dolor sit amet consectetur adipiscing elit feugiat tellus sociosqu ornare, morbi risus urna tincidunt mus curabitur vel non massa natoque. Pretium tristique eget nulla sem condimentum ligula eu ultrices convallis, ridiculus nibh bibendum posuere consequat tempus blandit donec."</p>
-              <div class="h6 text-uppercase">Lorem Ipsum</div>
-            </div>
-          </div>
-        </div>
-        <div class="carousel-item">
-          <div class="row justify-content-center">
-            <div class="col-md-8">
-              <p>"Lorem ipsum dolor sit amet consectetur adipiscing elit feugiat tellus sociosqu ornare, morbi risus urna tincidunt mus curabitur vel non massa natoque. Pretium tristique eget nulla sem condimentum ligula eu ultrices convallis, ridiculus nibh bibendum posuere consequat tempus blandit donec."</p>
-              <div class="h6 text-uppercase">Lorem Ipsum</div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</div> -->
-<div class="da-contact" id="contact">
-  <div class="da-contact-detail" data-aos="zoom-in" data-aos-duration="1000">
-    <div class="container">
-      <div class="card py-4 px-4">
-        <div class="h4 pb-4">Contact Us</div>
-        <div class="row">
-          <div class="col-md-7 col-sm-12 mb-3">
-            <div class="da-contact-message">
-              <form action="https://formspree.io/your@email.com" method="POST">
-                <div class="row">
-                  <div class="col-md-6 col-sm-12 mb-3">
-                    <input class="mr-3 form-control" type="text" name="first-name" placeholder="*First Name" required="required"/>
-                  </div>
-                  <div class="col-md-6 col-sm-12 mb-3">
-                    <input class="form-control" type="text" name="last-name" placeholder="Last Name"/>
-                  </div>
-                </div>
-                <div class="row mb-3">
-                  <div class="col">
-                    <input class="form-control" type="text" name="Subject" placeholder="*Subject" required="required"/>
-                  </div>
-                </div>
-                <div class="row mb-3">
-                  <div class="col">
-                    <input class="form-control" type="email" name="_replyto" placeholder="*E-mail" required="required"/>
-                  </div>
-                </div>
-                <div class="row mb-3">
-                  <div class="col">
-                    <textarea class="form-control" name="message" placeholder="*Your Message" rows="4" required="required"></textarea>
-                  </div>
-                </div>
-                <div class="row">
-                  <div class="col">
-                    <button class="btn btn-primary" type="submit">Send</button>
-                  </div>
-                </div>
-              </form>
-            </div>
-          </div>
-          <div class="col-md-5">
-            <b>Address:</b> A:Shop No. C , Commercial House,Jupiter CHS
 
-            Near Ganesh Temple,Kalyani Nagar
+<body>
 
-          Pune, India 411014</p>
-          <p><b>Phone:</b>+91 9325656756</p>
-          <p><b>Email:</b> contact@travelogimmigration.com</p>
-          
+  <!-- ======= Header ======= -->
+  <?php include'includes/header.php';?>
+  <!-- End Header -->
+
+  <!-- ======= Intro Section ======= -->
+  <section id="intro">
+    <div class="intro-container">
+      <div id="introCarousel" class="carousel  slide carousel-fade" data-ride="carousel">
+
+        <ol class="carousel-indicators"></ol>
+
+        <div class="carousel-inner" role="listbox">
+
+          <div class="carousel-item active" style="background-image: url(assets/img/intro-carousel/1.jpg)">
+            <div class="carousel-container">
+              <div class="container">
+                <h2 class="animate__animated animate__fadeInDown">We are professional</h2>
+                <p class="animate__animated animate__fadeInUp">“Believe passionately in what you do, and never knowingly compromise your standards and values. Act like a true professional, aiming for true excellence, and the money will follow.”</p>
+                <a href="#featured-services" class="btn-get-started scrollto animate__animated animate__fadeInUp">Get Started</a>
+              </div>
+            </div>
+          </div>
+
+          <div class="carousel-item" style="background-image: url(assets/img/intro-carousel/2.jpg)">
+            <div class="carousel-container">
+              <div class="container">
+                <h2 class="animate__animated animate__fadeInDown">Enjoy the business world with us</h2>
+                <p class="animate__animated animate__fadeInUp">“Business opportunities are like buses, there’s always another one coming.” </p>
+                <a href="#featured-services" class="btn-get-started scrollto animate__animated animate__fadeInUp">Get Started</a>
+              </div>
+            </div>
+          </div>
+
+          <div class="carousel-item" style="background-image: url(assets/img/intro-carousel/3.jpg)">
+            <div class="carousel-container">
+              <div class="container">
+                <h2 class="animate__animated animate__fadeInDown">We make your dreams happen</h2>
+                <p class="animate__animated animate__fadeInUp"> “The surest way to make your dreams come true is to live them.” “Dreams don't work unless you take action. The surest way to make your dreams come true is to live them.” </p>
+                <a href="#featured-services" class="btn-get-started scrollto animate__animated animate__fadeInUp">Get Started</a>
+              </div>
+            </div>
+          </div>
+
+          <div class="carousel-item" style="background-image: url(assets/img/intro-carousel/4.jpg)">
+            <div class="carousel-container">
+              <div class="container">
+                <h2 class="animate__animated animate__fadeInDown">Help us to help you</h2>
+                <p class="animate__animated animate__fadeInUp">“When we give cheerfully and accept gratefully, everyone is blessed.”</p>
+                <a href="#featured-services" class="btn-get-started scrollto animate__animated animate__fadeInUp">Get Started</a>
+              </div>
+            </div>
+          </div>
+
+          <div class="carousel-item" style="background-image: url(assets/img/intro-carousel/5.jpg)">
+            <div class="carousel-container">
+              <div class="container">
+                <h2 class="animate__animated animate__fadeInDown">All you need is a digital push</h2>
+                <p class="animate__animated animate__fadeInUp">To continue winning the internet marketing game, your content has to be more than just brilliant — it has to give the people consuming that content the ability to become a better version of themselves.”</p>
+                <a href="#featured-services" class="btn-get-started scrollto animate__animated animate__fadeInUp">Get Started</a>
+              </div>
+            </div>
+          </div>
+
         </div>
+
+        <a class="carousel-control-prev" href="#introCarousel" role="button" data-slide="prev">
+          <span class="carousel-control-prev-icon ion-chevron-left" aria-hidden="true"></span>
+          <span class="sr-only">Previous</span>
+        </a>
+
+        <a class="carousel-control-next" href="#introCarousel" role="button" data-slide="next">
+          <span class="carousel-control-next-icon ion-chevron-right" aria-hidden="true"></span>
+          <span class="sr-only">Next</span>
+        </a>
+
       </div>
     </div>
-  </div>
-</div>
-</div></div>
-</div>
-<?php include'includes/footer.php';?>
-<div id="scrolltop">
-  <button class="btn btn-primary"><span class="icon"><i class="fas fa-angle-up fa-2x"></i></span></button>
-</div>
-<?php include'includes/script.php';?>
+  </section><!-- End Intro Section -->
+
+  <main id="main">
+
+    <!-- ======= Featured Services Section Section ======= -->
+   <!--  <section id="featured-services">
+      <div class="container">
+        <div class="row">
+
+          <div class="col-lg-4 box">
+            <i class="ion-ios-bookmarks-outline"></i>
+            <h4 class="title"><a href="">Lorem Ipsum Delino</a></h4>
+            <p class="description">Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident</p>
+          </div>
+
+          <div class="col-lg-4 box box-bg">
+            <i class="ion-ios-stopwatch-outline"></i>
+            <h4 class="title"><a href="">Dolor Sitema</a></h4>
+            <p class="description">Minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat tarad limino ata</p>
+          </div>
+
+          <div class="col-lg-4 box">
+            <i class="ion-ios-heart-outline"></i>
+            <h4 class="title"><a href="">Sed ut perspiciatis</a></h4>
+            <p class="description">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur</p>
+          </div>
+
+        </div>
+      </div>
+    </section> --><!-- End Featured Services Section -->
+
+    <!-- ======= About Us Section ======= -->
+    <section id="about">
+      <div class="container" data-aos="fade-up">
+
+        <header class="section-header">
+          <h3>About Us</h3>
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+        </header>
+
+        <div class="row about-cols">
+
+          <div class="col-md-4" data-aos="fade-up" data-aos-delay="100">
+            <div class="about-col">
+              <div class="img">
+                <img src="assets/img/about-mission.jpg" alt="" class="img-fluid">
+                <div class="icon"><i class="ion-ios-speedometer-outline"></i></div>
+              </div>
+              <h2 class="title"><a href="#">Our Mission</a></h2>
+              <p>
+                Lorem ipsum dolor sit amet, consectetur elit, sed do eiusmod tempor ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+              </p>
+            </div>
+          </div>
+
+          <div class="col-md-4" data-aos="fade-up" data-aos-delay="200">
+            <div class="about-col">
+              <div class="img">
+                <img src="assets/img/about-plan.jpg" alt="" class="img-fluid">
+                <div class="icon"><i class="ion-ios-list-outline"></i></div>
+              </div>
+              <h2 class="title"><a href="#">Our Plan</a></h2>
+              <p>
+                Sed ut perspiciatis unde omnis iste natus error sit voluptatem doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+              </p>
+            </div>
+          </div>
+
+          <div class="col-md-4" data-aos="fade-up" data-aos-delay="300">
+            <div class="about-col">
+              <div class="img">
+                <img src="assets/img/about-vision.jpg" alt="" class="img-fluid">
+                <div class="icon"><i class="ion-ios-eye-outline"></i></div>
+              </div>
+              <h2 class="title"><a href="#">Our Vision</a></h2>
+              <p>
+                Nemo enim ipsam voluptatem quia voluptas sit aut odit aut fugit, sed quia magni dolores eos qui ratione voluptatem sequi nesciunt Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet.
+              </p>
+            </div>
+          </div>
+
+        </div>
+
+      </div>
+    </section><!-- End About Us Section -->
+
+    <!-- ======= Services Section ======= -->
+    <section id="services">
+      <div class="container" data-aos="fade-up">
+
+        <header class="section-header wow fadeInUp">
+          <h3>Services</h3>
+          <p>Are you looking for an effective way to grow your business’ brand awareness, number of new customers, and website traffic? Then you should be on social media! Check out our social media marketing service and build a strong social media presence.</p>
+        </header>
+
+        <div class="row">
+         <div class="col-lg-4 col-md-6 box" data-aos="fade-up" data-aos-delay="200">
+          <div class="icon"><i class="ion-ios-speedometer-outline"></i></div>
+          <h4 class="title"><a href="">Website Development</a></h4>
+          <p class="description"> Here is top web developers.We help brands educate, engage, and inspire their customers through
+          gamut of online services and powerful designs</p>
+        </div>
+        <div class="col-lg-4 col-md-6 box" data-aos="fade-up" data-aos-delay="300">
+          <div class="icon"><i class="ion-ios-barcode-outline"></i></div>
+          <h4 class="title"><a href=""></a>App Development</h4>
+          <p class="description">The usage of mobile applications is pretty high conveying a detectable change in mobile computing. From mailing to gaming, eatery to travelling, health to entertainment.</p>
+        </div>
+        <div class="col-lg-4 col-md-6 box" data-aos="fade-up" data-aos-delay="100">
+          <div class="icon"><i class="ion-ios-analytics-outline"></i></div>
+          <h4 class="title"><a href="">Social Media Marketing</a></h4>
+          <p class="description">Facebook Advertising Services,Instagram Advertising Services,YouTube Advertising Services</p>
+        </div>
+        <div class="col-lg-4 col-md-6 box" data-aos="fade-up" data-aos-delay="200">
+          <div class="icon"><i class="ion-ios-bookmarks-outline"></i></div>
+          <h4 class="title"><a href="">Search Engine Optimization </a></h4>
+          <p class="description">Higher Search Engine Rankings,Quality Website Traffic,Measurable Results</p>
+        </div>
+        <div class="col-lg-4 col-md-6 box" data-aos="fade-up" data-aos-delay="300">
+          <div class="icon"><i class="ion-ios-paper-outline"></i></div>
+          <h4 class="title"><a href="">Video Production Services</a></h4>
+          <p class="description">Types Of Videos,Where To Place Your Videos,Professional Video Production Equipment</p>
+        </div>
+
+
+        <div class="col-lg-4 col-md-6 box" data-aos="fade-up" data-aos-delay="400">
+          <div class="icon"><i class="ion-ios-people-outline"></i></div>
+          <h4 class="title"><a href="">Photography Service</a></h4>
+          <p class="description">Logos Business Cards,Painting And Sketching,Web Templates Image Editing,Corporate Photography Services</p>
+        </div>
+
+      </div>
+
+
+  </section><!-- End Services Section -->
+
+  <!-- ======= Call To Action Section ======= -->
+  <!-- <section id="call-to-action">
+    <div class="container text-center" data-aos="zoom-in">
+      <h3>Call To Action</h3>
+      <p> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+      <a class="cta-btn" href="#">Call To Action</a>
+    </div>
+  </section> --><!-- End Call To Action Section -->
+
+  <!-- ======= Skills Section ======= -->
+  <section id="skills">
+    <div class="container" data-aos="fade-up">
+
+      <header class="section-header">
+        <h3>Our Skills</h3>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip</p>
+      </header>
+
+      <div class="skills-content">
+
+        <div class="progress">
+          <div class="progress-bar bg-success" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100">
+            <span class="skill">HTML <i class="val">100%</i></span>
+          </div>
+        </div>
+
+        <div class="progress">
+          <div class="progress-bar bg-info" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100">
+            <span class="skill">CSS <i class="val">90%</i></span>
+          </div>
+        </div>
+
+        <div class="progress">
+          <div class="progress-bar bg-warning" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100">
+            <span class="skill">JavaScript <i class="val">75%</i></span>
+          </div>
+        </div>
+
+        <div class="progress">
+          <div class="progress-bar bg-danger" role="progressbar" aria-valuenow="55" aria-valuemin="0" aria-valuemax="100">
+            <span class="skill">Photoshop <i class="val">55%</i></span>
+          </div>
+        </div>
+
+      </div>
+
+    </div>
+  </section><!-- End Skills Section -->
+
+  <!-- ======= Facts Section ======= -->
+  <section id="facts">
+    <div class="container" data-aos="fade-up">
+
+      <header class="section-header">
+        <h3>Facts</h3>
+        <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque</p>
+      </header>
+
+      <div class="row counters">
+
+        <div class="col-lg-3 col-6 text-center">
+          <span data-toggle="counter-up">274</span>
+          <p>Clients</p>
+        </div>
+
+        <div class="col-lg-3 col-6 text-center">
+          <span data-toggle="counter-up">421</span>
+          <p>Projects</p>
+        </div>
+
+        <div class="col-lg-3 col-6 text-center">
+          <span data-toggle="counter-up">1,364</span>
+          <p>Hours Of Support</p>
+        </div>
+
+        <div class="col-lg-3 col-6 text-center">
+          <span data-toggle="counter-up">18</span>
+          <p>Hard Workers</p>
+        </div>
+
+      </div>
+
+      <div class="facts-img">
+        <img src="assets/img/p.png" alt="" class="img-fluid">
+      </div>
+
+    </div>
+  </section><!-- End Facts Section -->
+
+  <!-- ======= Portfolio Section ======= -->
+  <section id="portfolio" class="section-bg">
+    <div class="container" data-aos="fade-up">
+
+      <header class="section-header">
+        <h3 class="section-title">Our Portfolio</h3>
+      </header>
+
+      <div class="row" data-aos="fade-up" data-aos-delay="100"">
+        <div class=" col-lg-12">
+          <ul id="portfolio-flters">
+            <li data-filter="*" class="filter-active">All</li>
+            <li data-filter=".filter-app">App</li>
+            <li data-filter=".filter-card">Card</li>
+            <li data-filter=".filter-web">Web</li>
+          </ul>
+        </div>
+      </div>
+
+      <div class="row portfolio-container" data-aos="fade-up" data-aos-delay="200">
+
+        <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+          <div class="portfolio-wrap">
+            <figure>
+              <img src="assets/img/portfolio/app1.jpg" class="img-fluid" alt="">
+              <a href="assets/img/portfolio/app1.jpg" data-lightbox="portfolio" data-title="App 1" class="link-preview"><i class="ion ion-eye"></i></a>
+              <a href="portfolio-details.html" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
+            </figure>
+
+            <div class="portfolio-info">
+              <h4><a href="portfolio-details.html">App 1</a></h4>
+              <p>App</p>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+          <div class="portfolio-wrap">
+            <figure>
+              <img src="assets/img/portfolio/web3.jpg" class="img-fluid" alt="">
+              <a href="assets/img/portfolio/web3.jpg" class="link-preview venobox" data-gall="portfolioGallery" title="Web 3"><i class="ion ion-eye"></i></a>
+              <a href="portfolio-details.html" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
+            </figure>
+
+            <div class="portfolio-info">
+              <h4><a href="portfolio-details.html">Web 3</a></h4>
+              <p>Web</p>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+          <div class="portfolio-wrap">
+            <figure>
+              <img src="assets/img/portfolio/app2.jpg" class="img-fluid" alt="">
+              <a href="assets/img/portfolio/app2.jpg" class="link-preview venobox" data-gall="portfolioGallery" title="App 2"><i class="ion ion-eye"></i></a>
+              <a href="portfolio-details.html" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
+            </figure>
+
+            <div class="portfolio-info">
+              <h4><a href="portfolio-details.html">App 2</a></h4>
+              <p>App</p>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-lg-4 col-md-6 portfolio-item filter-card">
+          <div class="portfolio-wrap">
+            <figure>
+              <img src="assets/img/portfolio/card2.jpg" class="img-fluid" alt="">
+              <a href="assets/img/portfolio/card2.jpg" class="link-preview venobox" data-gall="portfolioGallery" title="Card 2"><i class="ion ion-eye"></i></a>
+              <a href="portfolio-details.html" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
+            </figure>
+
+            <div class="portfolio-info">
+              <h4><a href="portfolio-details.html">Card 2</a></h4>
+              <p>Card</p>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+          <div class="portfolio-wrap">
+            <figure>
+              <img src="assets/img/portfolio/web2.jpg" class="img-fluid" alt="">
+              <a href="assets/img/portfolio/web2.jpg" class="link-preview venobox" data-gall="portfolioGallery" title="Web 2"><i class="ion ion-eye"></i></a>
+              <a href="portfolio-details.html" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
+            </figure>
+
+            <div class="portfolio-info">
+              <h4><a href="portfolio-details.html">Web 2</a></h4>
+              <p>Web</p>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+          <div class="portfolio-wrap">
+            <figure>
+              <img src="assets/img/portfolio/app3.jpg" class="img-fluid" alt="">
+              <a href="assets/img/portfolio/app3.jpg" class="link-preview venobox" data-gall="portfolioGallery" title="App 3"><i class="ion ion-eye"></i></a>
+              <a href="portfolio-details.html" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
+            </figure>
+
+            <div class="portfolio-info">
+              <h4><a href="portfolio-details.html">App 3</a></h4>
+              <p>App</p>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-lg-4 col-md-6 portfolio-item filter-card">
+          <div class="portfolio-wrap">
+            <figure>
+              <img src="assets/img/portfolio/card1.jpg" class="img-fluid" alt="">
+              <a href="assets/img/portfolio/card1.jpg" class="link-preview venobox" data-gall="portfolioGallery" title="Card 1"><i class="ion ion-eye"></i></a>
+              <a href="portfolio-details.html" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
+            </figure>
+
+            <div class="portfolio-info">
+              <h4><a href="portfolio-details.html">Card 1</a></h4>
+              <p>Card</p>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-lg-4 col-md-6 portfolio-item filter-card">
+          <div class="portfolio-wrap">
+            <figure>
+              <img src="assets/img/portfolio/card3.jpg" class="img-fluid" alt="">
+              <a href="assets/img/portfolio/card3.jpg" class="link-preview venobox" data-gall="portfolioGallery" title="Card 3"><i class="ion ion-eye"></i></a>
+              <a href="portfolio-details.html" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
+            </figure>
+
+            <div class="portfolio-info">
+              <h4><a href="portfolio-details.html">Card 3</a></h4>
+              <p>Card</p>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+          <div class="portfolio-wrap">
+            <figure>
+              <img src="assets/img/portfolio/web1.jpg" class="img-fluid" alt="">
+              <a href="assets/img/portfolio/web1.jpg" class="link-preview venobox" data-gall="portfolioGallery" title="Web 1"><i class="ion ion-eye"></i></a>
+              <a href="portfolio-details.html" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
+            </figure>
+
+            <div class="portfolio-info">
+              <h4><a href="portfolio-details.html">Web 1</a></h4>
+              <p>Web</p>
+            </div>
+          </div>
+        </div>
+
+      </div>
+
+    </div>
+  </section><!-- End Portfolio Section -->
+
+  <!-- ======= Our Clients Section ======= -->
+  <section id="clients">
+    <div class="container" data-aos="zoom-in">
+
+      <header class="section-header">
+        <h3>Our Ventures</h3>
+      </header>
+
+      <div class="owl-carousel clients-carousel">
+        <img src="assets/img/clients/hotel world.png" alt="" style="height: 150px";>
+         <img src="assets/img/clients/Travelog-immigration.png" alt=""style="height: 150px";>
+        <img src="assets/img/clients/jwdmclogo.png" alt=""style="height: 150px";>
+        <img src="assets/img/clients/Travelog-Holidays.png" alt=""style="height: 150px";>
+        <img src="assets/img/clients/trustdoc-final.png" alt=""style="height: 150px";>
+
+          <!-- <img src="assets/img/clients/U-Turn.jpeg" alt=""> -->
+          <!-- <img src="assets/img/clients/client-7.png" alt="">
+          <img src="assets/img/clients/client-8.png" alt=""> -->
+        </div>
+
+      </div>
+    </section><!-- End Our Clients Section -->
+
+    <!-- ======= Testimonials Section ======= -->
+    <section id="testimonials" class="section-bg">
+      <div class="container" data-aos="fade-up">
+
+        <header class="section-header">
+          <h3>Testimonials</h3>
+        </header>
+
+        <div class="owl-carousel testimonials-carousel">
+
+          <div class="testimonial-item">
+            <img src="assets/img/testimonial-1.jpg" class="testimonial-img" alt="">
+            <h3>Sagar Kumbhar</h3>
+            <h4>Ceo &amp; Owner</h4>
+            <p>
+              <img src="assets/img/quote-sign-left.png" class="quote-sign-left" alt="">
+              Proin iaculis purus consequat sem cure digni ssim donec porttitora entum suscipit rhoncus. Accusantium quam, ultricies eget id, aliquam eget nibh et. Maecen aliquam, risus at semper.
+              <img src="assets/img/quote-sign-right.png" class="quote-sign-right" alt="">
+            </p>
+          </div>
+
+          <div class="testimonial-item">
+            <img src="assets/img/testimonial-2.jpg" class="testimonial-img" alt="">
+            <h3>Pratap Raje</h3>
+            <h4>Owner</h4>
+            <p>
+              <img src="assets/img/quote-sign-left.png" class="quote-sign-left" alt="">
+              Export tempor illum tamen malis malis eram quae irure esse labore quem cillum quid cillum eram malis quorum velit fore eram velit sunt aliqua noster fugiat irure amet legam anim culpa.
+              <img src="assets/img/quote-sign-right.png" class="quote-sign-right" alt="">
+            </p>
+          </div>
+
+          <div class="testimonial-item">
+            <img src="assets/img/testimonial-3.jpg" class="testimonial-img" alt="">
+            <h3>Jena Karlis</h3>
+            <h4>Store Owner</h4>
+            <p>
+              <img src="assets/img/quote-sign-left.png" class="quote-sign-left" alt="">
+              Enim nisi quem export duis labore cillum quae magna enim sint quorum nulla quem veniam duis minim tempor labore quem eram duis noster aute amet eram fore quis sint minim.
+              <img src="assets/img/quote-sign-right.png" class="quote-sign-right" alt="">
+            </p>
+          </div>
+
+          <div class="testimonial-item">
+            <img src="assets/img/testimonial-4.jpg" class="testimonial-img" alt="">
+            <h3>Matt Brandon</h3>
+            <h4>Freelancer</h4>
+            <p>
+              <img src="assets/img/quote-sign-left.png" class="quote-sign-left" alt="">
+              Fugiat enim eram quae cillum dolore dolor amet nulla culpa multos export minim fugiat minim velit minim dolor enim duis veniam ipsum anim magna sunt elit fore quem dolore labore illum veniam.
+              <img src="assets/img/quote-sign-right.png" class="quote-sign-right" alt="">
+            </p>
+          </div>
+
+          <div class="testimonial-item">
+            <img src="assets/img/testimonial-5.jpg" class="testimonial-img" alt="">
+            <h3>John Larson</h3>
+            <h4>Entrepreneur</h4>
+            <p>
+              <img src="assets/img/quote-sign-left.png" class="quote-sign-left" alt="">
+              Quis quorum aliqua sint quem legam fore sunt eram irure aliqua veniam tempor noster veniam enim culpa labore duis sunt culpa nulla illum cillum fugiat legam esse veniam culpa fore nisi cillum quid.
+              <img src="assets/img/quote-sign-right.png" class="quote-sign-right" alt="">
+            </p>
+          </div>
+
+        </div>
+
+      </div>
+    </section><!-- End Testimonials Section -->
+
+    <!-- ======= Team Section ======= -->
+    <section id="team">
+      <div class="container" data-aos="fade-up">
+        <div class="section-header">
+          <h3>Meet the Team</h3>
+          <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque</p>
+        </div>
+
+        <div class="row">
+
+          <div class="col-lg-3 col-md-6">
+            <div class="member" data-aos="fade-up" data-aos-delay="100">
+              <img src="assets/img/team-1.jpg" class="img-fluid" alt="">
+              <div class="member-info">
+                <div class="member-info-content">
+                  <h4>Walter White</h4>
+                  <span>Chief Executive Officer</span>
+                  <div class="social">
+                    <a href=""><i class="fa fa-twitter"></i></a>
+                    <a href=""><i class="fa fa-facebook"></i></a>
+                    <a href=""><i class="fa fa-google-plus"></i></a>
+                    <a href=""><i class="fa fa-linkedin"></i></a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-3 col-md-6">
+            <div class="member" data-aos="fade-up" data-aos-delay="200">
+              <img src="assets/img/team-2.jpg" class="img-fluid" alt="">
+              <div class="member-info">
+                <div class="member-info-content">
+                  <h4>Sarah Jhonson</h4>
+                  <span>Product Manager</span>
+                  <div class="social">
+                    <a href=""><i class="fa fa-twitter"></i></a>
+                    <a href=""><i class="fa fa-facebook"></i></a>
+                    <a href=""><i class="fa fa-google-plus"></i></a>
+                    <a href=""><i class="fa fa-linkedin"></i></a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-3 col-md-6">
+            <div class="member" data-aos="fade-up" data-aos-delay="300">
+              <img src="assets/img/team-3.jpg" class="img-fluid" alt="">
+              <div class="member-info">
+                <div class="member-info-content">
+                  <h4>William Anderson</h4>
+                  <span>CTO</span>
+                  <div class="social">
+                    <a href=""><i class="fa fa-twitter"></i></a>
+                    <a href=""><i class="fa fa-facebook"></i></a>
+                    <a href=""><i class="fa fa-google-plus"></i></a>
+                    <a href=""><i class="fa fa-linkedin"></i></a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-3 col-md-6">
+            <div class="member" data-aos="fade-up" data-aos-delay="400">
+              <img src="assets/img/team-4.jpg" class="img-fluid" alt="">
+              <div class="member-info">
+                <div class="member-info-content">
+                  <h4>Amanda Jepson</h4>
+                  <span>Accountant</span>
+                  <div class="social">
+                    <a href=""><i class="fa fa-twitter"></i></a>
+                    <a href=""><i class="fa fa-facebook"></i></a>
+                    <a href=""><i class="fa fa-google-plus"></i></a>
+                    <a href=""><i class="fa fa-linkedin"></i></a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+        </div>
+
+      </div>
+    </section><!-- End Team Section -->
+
+    <!-- ======= Contact Section ======= -->
+    <section id="contact" class="section-bg">
+      <div class="container" data-aos="fade-up">
+
+        <div class="section-header">
+          <h3>Contact Us</h3>
+          <p>Fill in the form below to instantly schedule a call with us.</p>
+        </div>
+
+        <div class="row contact-info">
+
+          <div class="col-md-4">
+            <div class="contact-address">
+              <i class="ion-ios-location-outline"></i>
+              <h3>Address</h3>
+              <address>A:Shop No. C , Commercial House,Jupiter CHS
+
+                Near Ganesh Temple,Kalyani Nagar
+
+              Pune, India 411014</address>
+            </div>
+          </div>
+
+          <div class="col-md-4">
+            <div class="contact-phone">
+              <i class="ion-ios-telephone-outline"></i>
+              <h3>Phone Number</h3>
+              <p><a href="tel:+155895548855">+91 9325656756</a></p>
+              <p><a href="tel:+155895548855">+91 9922514719</a></p>
+            </div>
+          </div>
+
+          <div class="col-md-4">
+            <div class="contact-email">
+              <i class="ion-ios-email-outline"></i>
+              <h3>Email</h3>
+
+              <p><a href="mailto:info@example.com">paresh@journeyworlddmc.com</a></p>
+              <contact@travelogimmigration.com>
+              <p><a href="mailto:info@example.com">contact@travelogimmigration.com</a></p>
+            </div>
+          </div>
+
+        </div>
+
+        <div class="form">
+          <form action="forms/contact.php" method="post" role="form" class="php-email-form">
+            <div class="form-row">
+              <div class="form-group col-md-6">
+                <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" data-rule="minlen:4" data-msg="Please enter at least 4 chars" />
+                <div class="validate"></div>
+              </div>
+              <div class="form-group col-md-6">
+                <input type="email" class="form-control" name="email" id="email" placeholder="Your Email" data-rule="email" data-msg="Please enter a valid email" />
+                <div class="validate"></div>
+              </div>
+            </div>
+            <div class="form-group">
+              <input type="text" class="form-control" name="subject" id="subject" placeholder="Subject" data-rule="minlen:4" data-msg="Please enter at least 8 chars of subject" />
+              <div class="validate"></div>
+            </div>
+            <div class="form-group">
+              <textarea class="form-control" name="message" rows="5" data-rule="required" data-msg="Please write something for us" placeholder="Message"></textarea>
+              <div class="validate"></div>
+            </div>
+            <div class="mb-3">
+              <div class="loading">Loading</div>
+              <div class="error-message"></div>
+              <div class="sent-message">Your message has been sent. Thank you!</div>
+            </div>
+            <div class="text-center"><button type="submit">Send Message</button></div>
+          </form>
+        </div>
+
+      </div>
+    </section><!-- End Contact Section -->
+
+  </main><!-- End #main -->
+
+  <!-- ======= Footer ======= -->
+  <!-- End Footer -->
+  <?php include'includes/footer.php';?>
+  <a href="#" class="back-to-top"><i class="fa fa-chevron-up"></i></a>
+  <!-- Uncomment below i you want to use a preloader -->
+  <!-- <div id="preloader"></div> -->
+
+  <!-- Vendor JS Files -->
+  <?php include'includes/script.php';?>
+
 </body>
+
 </html>
