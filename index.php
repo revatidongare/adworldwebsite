@@ -120,7 +120,7 @@
 
         <header class="section-header">
           <h3>About Us</h3>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+          <!-- <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p> -->
         </header>
 
         <div class="row about-cols">
@@ -187,7 +187,7 @@
         </div>
         <div class="col-lg-4 col-md-6 box" data-aos="fade-up" data-aos-delay="300">
           <div class="icon"><i class="ion-ios-barcode-outline"></i></div>
-          <h4 class="title"><a href=""></a>App Development</h4>
+          <h4 class="title"><a href="">App Development</a></h4>
           <p class="description">The usage of mobile applications is pretty high conveying a detectable change in mobile computing. From mailing to gaming, eatery to travelling, health to entertainment.</p>
         </div>
         <div class="col-lg-4 col-md-6 box" data-aos="fade-up" data-aos-delay="100">
@@ -237,28 +237,36 @@
       </header>
 
       <div class="skills-content">
-
         <div class="progress">
           <div class="progress-bar bg-success" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100">
             <span class="skill">HTML <i class="val">100%</i></span>
           </div>
         </div>
-
+        <div class="progress">
+          <div class="progress-bar bg-danger" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100">
+            <span class="skill">Photoshop <i class="val">100%</i></span>
+          </div>
+        </div>
         <div class="progress">
           <div class="progress-bar bg-info" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100">
             <span class="skill">CSS <i class="val">90%</i></span>
           </div>
         </div>
+        <div class="progress">
+          <div class="progress-bar bg-danger" role="progressbar" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100">
+            <span class="skill">Bootstrap <i class="val">85%</i></span>
+          </div>
+        </div>
+ <div class="progress">
 
+          <div class="progress-bar bg-success" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100">
+            <span class="skill">PHP <i class="val">80%</i></span>
+          </div>
+        </div>
+        
         <div class="progress">
           <div class="progress-bar bg-warning" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100">
             <span class="skill">JavaScript <i class="val">75%</i></span>
-          </div>
-        </div>
-
-        <div class="progress">
-          <div class="progress-bar bg-danger" role="progressbar" aria-valuenow="55" aria-valuemin="0" aria-valuemax="100">
-            <span class="skill">Photoshop <i class="val">55%</i></span>
           </div>
         </div>
 
@@ -273,7 +281,7 @@
 
       <header class="section-header">
         <h3>Facts</h3>
-        <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque</p>
+       <!--  <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque</p> -->
       </header>
 
       <div class="row counters">
@@ -285,12 +293,12 @@
 
         <div class="col-lg-3 col-6 text-center">
           <span data-toggle="counter-up">421</span>
-          <p>Projects</p>
+          <p>Projects Done</p>
         </div>
 
         <div class="col-lg-3 col-6 text-center">
           <span data-toggle="counter-up">1,364</span>
-          <p>Hours Of Support</p>
+          <p>Our Followers</p>
         </div>
 
         <div class="col-lg-3 col-6 text-center">
@@ -300,10 +308,10 @@
 
       </div>
 
-      <div class="facts-img">
+     <!--  <div class="facts-img">
         <img src="assets/img/p.png" alt="" class="img-fluid">
       </div>
-
+ -->
     </div>
   </section><!-- End Facts Section -->
 
@@ -315,7 +323,7 @@
         <h3 class="section-title">Our Portfolio</h3>
       </header>
 
-      <div class="row" data-aos="fade-up" data-aos-delay="100"">
+      <div class="row" data-aos="fade-up" data-aos-delay="100">
         <div class=" col-lg-12">
           <ul id="portfolio-flters">
             <li data-filter="*" class="filter-active">All</li>
@@ -346,9 +354,9 @@
         <div class="col-lg-4 col-md-6 portfolio-item filter-web">
           <div class="portfolio-wrap">
             <figure>
-              <img src="assets/img/portfolio/web3.jpg" class="img-fluid" alt="">
-              <a href="assets/img/portfolio/web3.jpg" class="link-preview venobox" data-gall="portfolioGallery" title="Web 3"><i class="ion ion-eye"></i></a>
-              <a href="portfolio-details.html" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
+              <img src="assets/img/portfolio/pp.png" class="img-fluid" alt="">
+              <a href="assets/img/portfolio/pp.png" class="link-preview venobox" data-gall="portfolioGallery" title="Web 3"><i class="ion ion-eye"></i></a>
+              <a href="http://www.journeyworlddmc.com/" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
             </figure>
 
             <div class="portfolio-info">
@@ -391,9 +399,9 @@
         <div class="col-lg-4 col-md-6 portfolio-item filter-web">
           <div class="portfolio-wrap">
             <figure>
-              <img src="assets/img/portfolio/web2.jpg" class="img-fluid" alt="">
-              <a href="assets/img/portfolio/web2.jpg" class="link-preview venobox" data-gall="portfolioGallery" title="Web 2"><i class="ion ion-eye"></i></a>
-              <a href="portfolio-details.html" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
+              <img src="assets/img/portfolio/Farm.png" class="img-fluid" alt="">
+              <a href="assets/img/portfolio/Farm.png" class="link-preview venobox" data-gall="portfolioGallery" title="Web 2"><i class="ion ion-eye"></i></a>
+              <a href="http://farmerstudy.com/" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
             </figure>
 
             <div class="portfolio-info">
@@ -451,9 +459,9 @@
         <div class="col-lg-4 col-md-6 portfolio-item filter-web">
           <div class="portfolio-wrap">
             <figure>
-              <img src="assets/img/portfolio/web1.jpg" class="img-fluid" alt="">
-              <a href="assets/img/portfolio/web1.jpg" class="link-preview venobox" data-gall="portfolioGallery" title="Web 1"><i class="ion ion-eye"></i></a>
-              <a href="portfolio-details.html" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
+              <img src="assets/img/portfolio/whispering.png" class="img-fluid" alt="">
+              <a href="assets/img/portfolio/whispering.png" class="link-preview venobox" data-gall="portfolioGallery" title="Web 1"><i class="ion ion-eye"></i></a>
+              <a href="http://www.journeyworlddmc.com/Whispringteaks/" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
             </figure>
 
             <div class="portfolio-info">
@@ -502,34 +510,34 @@
         <div class="owl-carousel testimonials-carousel">
 
           <div class="testimonial-item">
-            <img src="assets/img/testimonial-1.jpg" class="testimonial-img" alt="">
+            <img src="assets/img/slider-04.jpg" class="testimonial-img" alt="">
             <h3>Sagar Kumbhar</h3>
-            <h4>Ceo &amp; Owner</h4>
+            <h4>Manager</h4>
             <p>
               <img src="assets/img/quote-sign-left.png" class="quote-sign-left" alt="">
-              Proin iaculis purus consequat sem cure digni ssim donec porttitora entum suscipit rhoncus. Accusantium quam, ultricies eget id, aliquam eget nibh et. Maecen aliquam, risus at semper.
+              I liked working with  JWCreation and he was especially adaptable. JWCreation was able to work with our content creator to create ads which were effective with our audience.  JWCreation managed to grow our revenue across both Facebook and Google Ads by over 600% whilst reducing our CPA by half. 
               <img src="assets/img/quote-sign-right.png" class="quote-sign-right" alt="">
             </p>
           </div>
 
           <div class="testimonial-item">
-            <img src="assets/img/testimonial-2.jpg" class="testimonial-img" alt="">
+            <img src="assets/img/portfolio/card1.jpg" class="testimonial-img" alt="">
             <h3>Pratap Raje</h3>
             <h4>Owner</h4>
             <p>
               <img src="assets/img/quote-sign-left.png" class="quote-sign-left" alt="">
-              Export tempor illum tamen malis malis eram quae irure esse labore quem cillum quid cillum eram malis quorum velit fore eram velit sunt aliqua noster fugiat irure amet legam anim culpa.
+              Digital Marketing JWCreation Did an excellent job handling the design of our web site. Jomer and his team made sure I was updated throughout the process and gave me insight to help make my web page more user friendly for my customers. I would highly recommend Digital Marketing JWCreation if you are looking to build your brand online or just in need of web design.
               <img src="assets/img/quote-sign-right.png" class="quote-sign-right" alt="">
             </p>
           </div>
 
           <div class="testimonial-item">
-            <img src="assets/img/testimonial-3.jpg" class="testimonial-img" alt="">
-            <h3>Jena Karlis</h3>
-            <h4>Store Owner</h4>
+            <img src="assets/img/logo.png" class="testimonial-img" alt="">
+            <h3>Vinod Kamboj</h3>
+            <h4>Manager</h4>
             <p>
               <img src="assets/img/quote-sign-left.png" class="quote-sign-left" alt="">
-              Enim nisi quem export duis labore cillum quae magna enim sint quorum nulla quem veniam duis minim tempor labore quem eram duis noster aute amet eram fore quis sint minim.
+              Working with Nowspeed to support our organic and paid social media activity has extended the marketing activities we are able to achieve. We appreciate that the communication and response from our account rep is prompt and professional, and using the Basecamp platform has made collaboration easy.
               <img src="assets/img/quote-sign-right.png" class="quote-sign-right" alt="">
             </p>
           </div>

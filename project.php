@@ -49,7 +49,7 @@
               <li><strong>Category</strong>: Web design</li>
               <li><strong>Client</strong>: JWDMC Company</li>
               <li><strong>Project date</strong>: 01 October, 2020</li>
-              <li><strong>Project URL</strong>: <a href="#">www.http://www.journeyworlddmc.com</a></li>
+              <li><strong>Project URL</strong>: <a href="http://www.journeyworlddmc.com">http://www.journeyworlddmc.com</a></li>
             </ul>
           </div>
 
@@ -58,7 +58,7 @@
         <div class="portfolio-description">
           <h2>This is an example of portfolio detail</h2>
           <p>
-            Autem ipsum nam porro corporis rerum. Quis eos dolorem eos itaque inventore commodi labore quia quia. Exercitationem repudiandae officiis neque suscipit non officia eaque itaque enim. Voluptatem officia accusantium nesciunt est omnis tempora consectetur dignissimos. Sequi nulla at esse enim cum deserunt eius.
+           Travel inspire us and we always like to explore something new which can be offered vibrantly to our customers. Our goal is to make everyone travel at a affordable price anytime anywhere around the world. If you love to explore places on your own, then we are the experts to tailor make holidays as per your liking to the tee.
           </p>
         </div>
       </div>
