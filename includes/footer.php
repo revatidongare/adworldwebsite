@@ -4,16 +4,16 @@
         <div class="row">
 
           <div class="col-lg-3 col-md-6 footer-info">
-            <h3>JW Creation</h3>
+            <h3>JW Creations</h3>
             <p>A social media management company with a concentration on increasing sales revenue. We also handle web design,App Development and search engine marketing. Get Started.</p>
           </div>
 
           <div class="col-lg-3 col-md-6 footer-links">
             <h4>Useful Links</h4>
             <ul>
-              <li><i class="ion-ios-arrow-right"></i> <a href="#">Home</a></li>
-              <li><i class="ion-ios-arrow-right"></i> <a href="#">About us</a></li>
-              <li><i class="ion-ios-arrow-right"></i> <a href="#">Services</a></li>
+              <li><i class="ion-ios-arrow-right"></i> <a href="index.php">Home</a></li>
+              <li><i class="ion-ios-arrow-right"></i> <a href="Aboutus.php">About us</a></li>
+              <li><i class="ion-ios-arrow-right"></i> <a href="services.php">Services</a></li>
               <li><i class="ion-ios-arrow-right"></i> <a href="#">Terms of service</a></li>
               <li><i class="ion-ios-arrow-right"></i> <a href="#">Privacy policy</a></li>
             </ul>
@@ -64,7 +64,7 @@
 
     <div class="container">
       <div class="copyright">
-        &copy; Copyright <strong>Digital Agency</strong>. All Rights Reserved
+        &copy; Copyright <strong>JWCreations</strong>. All Rights Reserved
       </div>
       <div class="credits">
         <!--

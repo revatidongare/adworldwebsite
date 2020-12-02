@@ -14,7 +14,7 @@
       <div class="container" data-aos="fade-up">
 
         <header class="section-header wow fadeInUp">
-          <h3>Services</h3>
+          <h3>Digital Services</h3>
           <p>Are you looking for an effective way to grow your business’ brand awareness, number of new customers, and website traffic? Then you should be on social media! Check out our social media marketing service and build a strong social media presence.</p>
         </header>
 
