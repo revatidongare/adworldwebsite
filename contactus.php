@@ -54,7 +54,7 @@
         </div>
 
         <div class="form">
-          <form action="forms/contact.php" method="post" role="form" class="php-email-form">
+          <form action="back.php" method="post">
             <div class="form-row">
               <div class="form-group col-md-6">
                 <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" data-rule="minlen:4" data-msg="Please enter at least 4 chars" />
@@ -66,19 +66,24 @@
               </div>
             </div>
             <div class="form-group">
-              <input type="text" class="form-control" name="subject" id="subject" placeholder="Subject" data-rule="minlen:4" data-msg="Please enter at least 8 chars of subject" />
+              <input type="text" class="form-control" name="phone" id="phone" placeholder="Phone"  />
               <div class="validate"></div>
             </div>
             <div class="form-group">
-              <textarea class="form-control" name="message" rows="5" data-rule="required" data-msg="Please write something for us" placeholder="Message"></textarea>
+              <textarea class="form-control" name="message" rows="5" id="message" placeholder="message"  data-rule="required" data-msg="Please write something for us" placeholder="Message"></textarea>
               <div class="validate"></div>
             </div>
-            <div class="mb-3">
+            <!-- <div class="mb-3">
               <div class="loading">Loading</div>
               <div class="error-message"></div>
               <div class="sent-message">Your message has been sent. Thank you!</div>
-            </div>
-            <div class="text-center"><button type="submit">Send Message</button></div>
+            </div> -->
+            <div class="text-center"><button type="submit" style= "background: #18d26e;
+  border: 0;
+  padding: 10px 30px;
+  color: #fff;
+  transition: 0.4s;
+  cursor: pointer;" name="contact" id="contact">Send Message</button></div>
           </form>
         </div>
 

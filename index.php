@@ -583,9 +583,9 @@
 
         <div class="row">
 
-          <div class="col-lg-4 col-md-6">
+          <div class="col-lg-3 col-md-6">
             <div class="member" data-aos="fade-up" data-aos-delay="100">
-              <img src="assets/img/team-1.jpg" class="img-fluid" alt="">
+              <img src="assets/img/team1.jpg" class="img-fluid" alt="">
               <div class="member-info">
                 <div class="member-info-content">
                   <h4>Revti Dongare</h4>
@@ -601,9 +601,9 @@
             </div>
           </div>
 
-          <div class="col-lg-4 col-md-6">
+          <div class="col-lg-3 col-md-6">
             <div class="member" data-aos="fade-up" data-aos-delay="200">
-              <img src="assets/img/team-2.jpg" class="img-fluid" alt="">
+              <img src="assets/img/team2.jpg" class="img-fluid" alt="">
               <div class="member-info">
                 <div class="member-info-content">
                   <h4>Pallavi Tambe</h4>
@@ -619,9 +619,9 @@
             </div>
           </div>
 
-          <div class="col-lg-4 col-md-6">
+          <div class="col-lg-3 col-md-6">
             <div class="member" data-aos="fade-up" data-aos-delay="300">
-              <img src="assets/img/team-3.jpg" class="img-fluid" alt="">
+              <img src="assets/img/team3.jpg" class="img-fluid" alt="">
               <div class="member-info">
                 <div class="member-info-content">
                   <h4>Baporikar Vaishanvi</h4>
@@ -637,13 +637,13 @@
             </div>
           </div>
 
-         <!--  <div class="col-lg-3 col-md-6">
+          <div class="col-lg-3 col-md-6">
             <div class="member" data-aos="fade-up" data-aos-delay="400">
-              <img src="assets/img/team-4.jpg" class="img-fluid" alt="">
+              <img src="assets/img/team6.jpg" class="img-fluid" alt="">
               <div class="member-info">
                 <div class="member-info-content">
-                  <h4>Amanda Jepson</h4>
-                  <span>Accountant</span>
+                  <h4>Dhaybar Surbhi</h4>
+                  <span>Sales Executive</span>
                   <div class="social">
                     <a href=""><i class="fa fa-twitter"></i></a>
                     <a href=""><i class="fa fa-facebook"></i></a>
@@ -654,7 +654,7 @@
               </div>
             </div>
           </div>
-        -->
+       
       </div>
 
 
@@ -705,35 +705,39 @@
 
       </div>
 
-      <div class="form">
-        <form action="forms/contact.php" method="post" role="form" class="php-email-form">
-          <div class="form-row">
-            <div class="form-group col-md-6">
-              <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" data-rule="minlen:4" data-msg="Please enter at least 4 chars" />
+       <div class="form">
+          <form action="back.php" method="post">
+            <div class="form-row">
+              <div class="form-group col-md-6">
+                <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" data-rule="minlen:4" data-msg="Please enter at least 4 chars" />
+                <div class="validate"></div>
+              </div>
+              <div class="form-group col-md-6">
+                <input type="email" class="form-control" name="email" id="email" placeholder="Your Email" data-rule="email" data-msg="Please enter a valid email" />
+                <div class="validate"></div>
+              </div>
+            </div>
+            <div class="form-group">
+              <input type="text" class="form-control" name="phone" id="phone" placeholder="Phone"  />
               <div class="validate"></div>
             </div>
-            <div class="form-group col-md-6">
-              <input type="email" class="form-control" name="email" id="email" placeholder="Your Email" data-rule="email" data-msg="Please enter a valid email" />
+            <div class="form-group">
+              <textarea class="form-control" name="message" rows="5" id="message" placeholder="message"  data-rule="required" data-msg="Please write something for us" placeholder="Message"></textarea>
               <div class="validate"></div>
             </div>
-          </div>
-          <div class="form-group">
-            <input type="text" class="form-control" name="subject" id="subject" placeholder="Subject" data-rule="minlen:4" data-msg="Please enter at least 8 chars of subject" />
-            <div class="validate"></div>
-          </div>
-          <div class="form-group">
-            <textarea class="form-control" name="message" rows="5" data-rule="required" data-msg="Please write something for us" placeholder="Message"></textarea>
-            <div class="validate"></div>
-          </div>
-          <div class="mb-3">
-            <div class="loading">Loading</div>
-            <div class="error-message"></div>
-            <div class="sent-message">Your message has been sent. Thank you!</div>
-          </div>
-          <div class="text-center"><button type="submit">Send Message</button></div>
-        </form>
-      </div>
-
+            <!-- <div class="mb-3">
+              <div class="loading">Loading</div>
+              <div class="error-message"></div>
+              <div class="sent-message">Your message has been sent. Thank you!</div>
+            </div> -->
+            <div class="text-center"><button type="submit" style= "background: #18d26e;
+  border: 0;
+  padding: 10px 30px;
+  color: #fff;
+  transition: 0.4s;
+  cursor: pointer;" name="contact" id="contact">Send Message</button></div>
+          </form>
+        </div>
     </div>
   </section><!-- End Contact Section -->
 
