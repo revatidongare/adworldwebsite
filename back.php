@@ -119,3 +119,8 @@ $to_email1 = 'contact@journeyworlddmc.com';
 
 
 ?>
+<input type="hidden" name="item_meta[121]" id="field_3i21i" value=""  data-reqmsg="This field cannot be blank." aria-required="true" data-invmsg="Please give a brief description about your requirement is invalid"   />
+                      <input type="hidden" name="item_meta[122]" id="field_elj94" value=""  data-reqmsg="This field cannot be blank." aria-required="true" data-invmsg="Please share reference websites / portals / apps / social media pages etc which you really like is invalid"   />
+                      <input type="hidden" name="item_meta[129]" id="field_diim2" value=""  data-reqmsg="This field cannot be blank." aria-required="true" data-invmsg="Please enlist some of your key competitors (Online and Offline) is invalid"   />
+                      <input type="hidden" name="item_meta[276]" id="field_96377a" value="---Select---"  data-frmval="---Select---" data-reqmsg="This field cannot be blank." aria-required="true" data-invmsg="Project Start Date is invalid"   />
+                      <input type="hidden" name="item_meta[141]" id="field_3auax" value=""  data-invmsg="Next is invalid"   />

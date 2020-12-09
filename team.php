@@ -40,7 +40,7 @@
 
           <div class="col-lg-3 col-md-6">
             <div class="member" data-aos="fade-up" data-aos-delay="200">
-              <img src="assets/img/team2.jpg" class="img-fluid" alt="">
+              <img src="assets/img/2.jpeg" class="img-fluid" alt="">
               <div class="member-info">
                 <div class="member-info-content">
                   <h4>Pallavi Tambe</h4>
@@ -58,7 +58,7 @@
 
           <div class="col-lg-3 col-md-6">
             <div class="member" data-aos="fade-up" data-aos-delay="300">
-              <img src="assets/img/team3.jpg" class="img-fluid" alt="">
+              <img src="assets/img/3.jpg" class="img-fluid" alt="">
               <div class="member-info">
                 <div class="member-info-content">
                   <h4>Baporikar Vaishanvi</h4>
