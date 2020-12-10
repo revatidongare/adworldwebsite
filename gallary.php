@@ -290,6 +290,34 @@
           </div>
         </div>
       </div>
+      <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+        <div class="portfolio-wrap">
+          <figure>
+            <img src="assets/img/outdoor/paresh.jpg" class="img-fluid" alt="">
+            <a href="assets/img/outdoor/paresh.jpg" class="link-preview venobox" data-gall="portfolioGallery" title="Web 1"><i class="ion ion-eye"></i></a>
+            <a href="http://www.journeyworlddmc.com/Whispringteaks/" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
+          </figure>
+
+          <div class="portfolio-info">
+            <h4><a href="portfolio-details.html">Seminar</a></h4>
+           
+          </div>
+        </div>
+      </div>
+      <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+        <div class="portfolio-wrap">
+          <figure>
+            <img src="assets/img/outdoor/paresh1.jpg" class="img-fluid" alt="">
+            <a href="assets/img/outdoor/paresh1.jpg" class="link-preview venobox" data-gall="portfolioGallery" title="Web 1"><i class="ion ion-eye"></i></a>
+            <a href="http://www.journeyworlddmc.com/Whispringteaks/" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
+          </figure>
+
+          <div class="portfolio-info">
+            <h4><a href="portfolio-details.html">Seminar</a></h4>
+           
+          </div>
+        </div>
+      </div>
 
 
     </div>

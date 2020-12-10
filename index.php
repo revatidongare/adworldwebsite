@@ -481,20 +481,30 @@
 
 <!-- ======= Our Clients Section ======= -->
 <section id="clients">
-  <div class="container" data-aos="zoom-in">
+    <div class="container" data-aos="zoom-in">
 
-    <header class="section-header">
-      <h3>Our Ventures</h3>
-    </header>
+      <header class="section-header">
+        <h3>Our Ventures</h3>
+      </header>
 
-    <div class="owl-carousel clients-carousel">
-      <img src="assets/img/clients/hotel world.png" alt="" style="height: 150px";>
-      <img src="assets/img/clients/Travelog-immigration.png" alt=""style="height: 150px";>
-      <img src="assets/img/clients/jwdmclogo.png" alt=""style="height: 150px";>
-      <img src="assets/img/clients/Travelog-Holidays.png" alt=""style="height: 150px";>
-      <img src="assets/img/clients/trustdoc-final.png" alt=""style="height: 150px";>
+      <div class="owl-carousel clients-carousel">
+        <!-- <a href="http://www.journeyworlddmc.com/"> -->
+          <img src="assets/img/clients/hotel world.png" alt="" style="height: 150px";>
+          <a href="http://travelogimmigration.com/">
+            <img src="assets/img/clients/Travelog-immigration.png" alt=""style="height: 150px";></a>
+            <a href="http://www.journeyworlddmc.com/">
+              <img src="assets/img/clients/jwdmclogo.png" alt=""style="height: 150px";></a>
+              <a href="http://travelogholiday.com/">
+                <img src="assets/img/clients/Travelog-Holidays.png" alt=""style="height: 150px";></a>
+                <a href="http://www.trustudoctor.com/">
+                  <img src="assets/img/clients/trustdoc-final.png" alt=""style="height: 150px";></a>
+                  <a href="http://www.farmerstudy.com/">
+                    <img src="assets/img/clients/log.png" alt=""style="height: 150px";></a>
+                    <!-- <a href="http://www.farmerstudy.com/"> -->
+                      <img src="assets/img/clients/cab.jpg" alt=""style="height: 150px";>
 
-      <!-- <img src="assets/img/clients/U-Turn.jpeg" alt=""> -->
+
+                      <!-- <img src="assets/img/clients/U-Turn.jpeg" alt=""> -->
           <!-- <img src="assets/img/clients/client-7.png" alt="">
             <img src="assets/img/clients/client-8.png" alt=""> -->
           </div>
@@ -573,92 +583,8 @@
     </section><!-- End Testimonials Section -->
 
     <!-- ======= Team Section ======= -->
-   <section id="team">
-      <div class="container" data-aos="fade-up">
-        <div class="section-header">
-          <h3>Meet the Team</h3>
-          
-          <p>Coming together is the beginning. Staying together is progress. Working together is success.</p>
-        </div>
-
-        <div class="row">
-
-          <div class="col-lg-3 col-md-6">
-            <div class="member" data-aos="fade-up" data-aos-delay="100">
-              <img src="assets/img/team1.jpg" class="img-fluid" alt="">
-              <div class="member-info">
-                <div class="member-info-content">
-                  <h4>Revti Dongare</h4>
-                  <span>Team Leader</span>
-                  <div class="social">
-                    <a href=""><i class="fa fa-twitter"></i></a>
-                    <a href=""><i class="fa fa-facebook"></i></a>
-                    <a href=""><i class="fa fa-google-plus"></i></a>
-                    <a href=""><i class="fa fa-linkedin"></i></a>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-3 col-md-6">
-            <div class="member" data-aos="fade-up" data-aos-delay="200">
-              <img src="assets/img/2.jpeg" class="img-fluid" alt="">
-              <div class="member-info">
-                <div class="member-info-content">
-                  <h4>Pallavi Tambe</h4>
-                  <span>Senior Developer</span>
-                  <div class="social">
-                    <a href=""><i class="fa fa-twitter"></i></a>
-                    <a href=""><i class="fa fa-facebook"></i></a>
-                    <a href=""><i class="fa fa-google-plus"></i></a>
-                    <a href=""><i class="fa fa-linkedin"></i></a>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-3 col-md-6">
-            <div class="member" data-aos="fade-up" data-aos-delay="300">
-              <img src="assets/img/3.jpg" class="img-fluid" alt="">
-              <div class="member-info">
-                <div class="member-info-content">
-                  <h4>Baporikar Vaishanvi</h4>
-                  <span>Senior Developer</span>
-                  <div class="social">
-                    <a href=""><i class="fa fa-twitter"></i></a>
-                    <a href=""><i class="fa fa-facebook"></i></a>
-                    <a href=""><i class="fa fa-google-plus"></i></a>
-                    <a href=""><i class="fa fa-linkedin"></i></a>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-3 col-md-6">
-            <div class="member" data-aos="fade-up" data-aos-delay="400">
-              <img src="assets/img/team6.jpg" class="img-fluid" alt="">
-              <div class="member-info">
-                <div class="member-info-content">
-                  <h4>Dhaybar Surbhi</h4>
-                  <span>Sales Executive</span>
-                  <div class="social">
-                    <a href=""><i class="fa fa-twitter"></i></a>
-                    <a href=""><i class="fa fa-facebook"></i></a>
-                    <a href=""><i class="fa fa-google-plus"></i></a>
-                    <a href=""><i class="fa fa-linkedin"></i></a>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-       
-      </div>
-
-
-  </section><!-- End Team Section -->
+ 
+ <!-- End Team Section -->
 
   <!-- ======= Contact Section ======= -->
   <section id="contact" class="section-bg">
