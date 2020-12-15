@@ -117,10 +117,70 @@ $to_email1 = 'contact@journeyworlddmc.com';
       header("location:contactus.php?q=101");
     }
 
+    if(isset($_POST['get_a_quote'])){
+    // include 'config.php';
+ $web = $_POST['q9_servicesYou'];
+    
+    $rname = $_POST['namee'];
+    $yname = $_POST['yname'];
+    $address = $_POST['address'];
+    $city = $_POST['city'];
+    $state = $_POST['state'];
+      $country = $_POST['country'];
+        $code = $_POST['code'];
+           $mobno = $_POST['mobno'];
+              $wno = $_POST['wno'];
+              $mail = $_POST['mail'];
+      
+      
+  
+
+
+// email code
+  $to = $email;
+  $subject = "Hi " . $yname. " " . ", welcome to JW Creations....!";
+  $body = '
+Dear ' . $yname . ',
+  Thank you for joining our site. Your request has been successfully submitted to our end our team will contact you shortly.
+  Kind Regards,
+JW Creations
+  ';
+  $headers = 'From: pallavi@journeyworlddmc.com';
+
+  if (mail($to, $subject, $body, $headers)) {
+    header('location:p.php?p=3');
+  }
+  else{
+    echo("email failed to sent to user whose email is " . $email);
+  }
+
+  // email end
+
+  //self mail
+$to_email1 = 'pallavi@journeyworlddmc.com';
+  $subject1 = ' Journey World Creations site response  ';
+  $message1 = 'Resort Name: '.$rname.
+  "\n".'Quatation'. $web.
+  "\n" . 'Name: '.$yname.
+  "\n".'Address: '.$address.
+  "\n".'City: '.$city.
+   "\n".'State: '.$state.
+    "\n".'Country: '.$country.
+     "\n".'Pin-Code: '.$code.
+      "\n".'Mobile-No: '.$mobno.
+       "\n".'Whatsapp-No: '.$wno.
+         "\n".'Email: '.$mail.
+  
+  
+  $headers1 = 'From: '.$email;
+  mail($to_email1,$subject1,$message1,$headers1);
+  //self email end
+
+    }
+    else{
+
+      header("location:p.php?q=101");
+    }
+
 
 ?>
-<input type="hidden" name="item_meta[121]" id="field_3i21i" value=""  data-reqmsg="This field cannot be blank." aria-required="true" data-invmsg="Please give a brief description about your requirement is invalid"   />
-                      <input type="hidden" name="item_meta[122]" id="field_elj94" value=""  data-reqmsg="This field cannot be blank." aria-required="true" data-invmsg="Please share reference websites / portals / apps / social media pages etc which you really like is invalid"   />
-                      <input type="hidden" name="item_meta[129]" id="field_diim2" value=""  data-reqmsg="This field cannot be blank." aria-required="true" data-invmsg="Please enlist some of your key competitors (Online and Offline) is invalid"   />
-                      <input type="hidden" name="item_meta[276]" id="field_96377a" value="---Select---"  data-frmval="---Select---" data-reqmsg="This field cannot be blank." aria-required="true" data-invmsg="Project Start Date is invalid"   />
-                      <input type="hidden" name="item_meta[141]" id="field_3auax" value=""  data-invmsg="Next is invalid"   />

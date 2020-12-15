@@ -5,6 +5,8 @@
               <li><a href="Aboutus.php">About Us</a></li>
                        <li><a href="services.php">Digital Services</a></li>
                   <li><a href="outdoor.php">Offline Services</a></li>
+                  <li><a href="package.php">Packages</a></li>
+                  
               <li><a href="gallary.php">Gallary</a></li>
      <li><a href="project.php">Portfolio</a></li>
 

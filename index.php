@@ -24,7 +24,7 @@
               <div class="container">
                 <h2 class="animate__animated animate__fadeInDown">We are professional</h2>
                 <p class="animate__animated animate__fadeInUp">“Believe passionately in what you do, and never knowingly compromise your standards and values. Act like a true professional, aiming for true excellence, and the money will follow.”</p>
-                <a href="pp.php" class="btn-get-started scrollto animate__animated animate__fadeInUp">Get A QUOTE</a>
+                <a href="p.php" class="btn-get-started scrollto animate__animated animate__fadeInUp">Get A QUOTE</a>
               </div>
             </div>
           </div>
@@ -34,7 +34,7 @@
               <div class="container">
                 <h2 class="animate__animated animate__fadeInDown">Enjoy the business world with us</h2>
                 <p class="animate__animated animate__fadeInUp">“Business opportunities are like buses, there’s always another one coming.” </p>
-                <a href="pp.php" class="btn-get-started scrollto animate__animated animate__fadeInUp">Get A QUOTE</a>
+                <a href="p.php" class="btn-get-started scrollto animate__animated animate__fadeInUp">Get A QUOTE</a>
               </div>
             </div>
           </div>
@@ -44,7 +44,7 @@
               <div class="container">
                 <h2 class="animate__animated animate__fadeInDown">We make your dreams happen</h2>
                 <p class="animate__animated animate__fadeInUp"> “The surest way to make your dreams come true is to live them.” “Dreams don't work unless you take action. The surest way to make your dreams come true is to live them.” </p>
-                <a href="pp.php" class="btn-get-started scrollto animate__animated animate__fadeInUp">Get A QUOTE</a>
+                <a href="p.php" class="btn-get-started scrollto animate__animated animate__fadeInUp">Get A QUOTE</a>
               </div>
             </div>
           </div>
@@ -54,7 +54,7 @@
               <div class="container">
                 <h2 class="animate__animated animate__fadeInDown">Help us to help you</h2>
                 <p class="animate__animated animate__fadeInUp">“When we give cheerfully and accept gratefully, everyone is blessed.”</p>
-                <a href="pp.php" class="btn-get-started scrollto animate__animated animate__fadeInUp">Get A QUOTE</a>
+                <a href="p.php" class="btn-get-started scrollto animate__animated animate__fadeInUp">Get A QUOTE</a>
               </div>
             </div>
           </div>
@@ -64,7 +64,7 @@
               <div class="container">
                 <h2 class="animate__animated animate__fadeInDown">All you need is a digital push</h2>
                 <p class="animate__animated animate__fadeInUp">To continue winning the internet marketing game, your content has to be more than just brilliant — it has to give the people consuming that content the ability to become a better version of themselves.”</p>
-                <a href="pp.php" class="btn-get-started scrollto animate__animated animate__fadeInUp">Get A QUOTE</a>
+                <a href="p.php" class="btn-get-started scrollto animate__animated animate__fadeInUp">Get A QUOTE</a>
               </div>
             </div>
           </div>
@@ -581,7 +581,146 @@
 
       </div>
     </section><!-- End Testimonials Section -->
+   <section id="team">
+    <div class="container" data-aos="fade-up">
+      <div class="section-header">
+        <h3>Meet the Team</h3>
 
+        <p>Coming together is the beginning. Staying together is progress. Working together is success.</p>
+      </div>
+
+      <div class="row">
+        <div class="col-lg-3 col-md-6">
+          <div class="member" data-aos="fade-up" data-aos-delay="200">
+            <img src="assets/img/paresh.jpg" class="img-fluid" alt="">
+            <div class="member-info">
+              <div class="member-info-content">
+                <h4>Paresh More</h4>
+                <span>Director</span>
+                <div class="social">
+                  <a href=""><i class="fa fa-twitter"></i></a>
+                  <a href=""><i class="fa fa-facebook"></i></a>
+                  <a href=""><i class="fa fa-google-plus"></i></a>
+                  <a href=""><i class="fa fa-linkedin"></i></a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div> 
+        <div class="col-lg-3 col-md-6">
+          <div class="member" data-aos="fade-up" data-aos-delay="200">
+            <img src="assets/img/vaibhav.jpg" class="img-fluid" alt="">
+            <div class="member-info">
+              <div class="member-info-content">
+                <h4>Vaibhav Kakirdeh</h4>
+                <span>Business Development Head</span>
+                <div class="social">
+                  <a href=""><i class="fa fa-twitter"></i></a>
+                  <a href=""><i class="fa fa-facebook"></i></a>
+                  <a href=""><i class="fa fa-google-plus"></i></a>
+                  <a href=""><i class="fa fa-linkedin"></i></a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-3 col-md-6">
+          <div class="member" data-aos="fade-up" data-aos-delay="100">
+            <img src="assets/img/team1.jpg" class="img-fluid" alt="" >
+            <div class="member-info">
+              <div class="member-info-content">
+                <h4>Revti Dongare</h4>
+                <span>Team Leader</span>
+                <div class="social">
+                  <a href=""><i class="fa fa-twitter"></i></a>
+                  <a href=""><i class="fa fa-facebook"></i></a>
+                  <a href=""><i class="fa fa-google-plus"></i></a>
+                  <a href=""><i class="fa fa-linkedin"></i></a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+
+        <div class="col-lg-3 col-md-6">
+          <div class="member" data-aos="fade-up" data-aos-delay="200">
+            <img src="assets/img/2.jpeg" class="img-fluid" alt="">
+            <div class="member-info">
+              <div class="member-info-content">
+                <h4>Pallavi Tambe</h4>
+                <span>Senior Developer</span>
+                <div class="social">
+                  <a href=""><i class="fa fa-twitter"></i></a>
+                  <a href=""><i class="fa fa-facebook"></i></a>
+                  <a href=""><i class="fa fa-google-plus"></i></a>
+                  <a href=""><i class="fa fa-linkedin"></i></a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-lg-3 col-md-6">
+          <div class="member" data-aos="fade-up" data-aos-delay="300">
+            <img src="assets/img/3.jpg" class="img-fluid" alt="">
+            <div class="member-info">
+              <div class="member-info-content">
+                <h4>Baporikar Vaishanvi</h4>
+                <span>Senior Developer</span>
+                <div class="social">
+                  <a href=""><i class="fa fa-twitter"></i></a>
+                  <a href=""><i class="fa fa-facebook"></i></a>
+                  <a href=""><i class="fa fa-google-plus"></i></a>
+                  <a href=""><i class="fa fa-linkedin"></i></a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-lg-3 col-md-6">
+          <div class="member" data-aos="fade-up" data-aos-delay="400">
+            <img src="assets/img/team6.jpg" class="img-fluid" alt="">
+            <div class="member-info">
+              <div class="member-info-content">
+                <h4>Dhaybar Surbhi</h4>
+                <span>Business Development Executive
+                </span>
+                <div class="social">
+                  <a href=""><i class="fa fa-twitter"></i></a>
+                  <a href=""><i class="fa fa-facebook"></i></a>
+                  <a href=""><i class="fa fa-google-plus"></i></a>
+                  <a href=""><i class="fa fa-linkedin"></i></a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-3 col-md-6">
+          <div class="member" data-aos="fade-up" data-aos-delay="200">
+            <img src="assets/img/poja.jpg" class="img-fluid" alt="">
+            <div class="member-info">
+              <div class="member-info-content">
+                <h4>Pooja Abhynkar</h4>
+                <span>Graphic Designer</span>
+                <div class="social">
+                  <a href=""><i class="fa fa-twitter"></i></a>
+                  <a href=""><i class="fa fa-facebook"></i></a>
+                  <a href=""><i class="fa fa-google-plus"></i></a>
+                  <a href=""><i class="fa fa-linkedin"></i></a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        
+
+      </div>
+    </div>
+
+
+  </section>
     <!-- ======= Team Section ======= -->
  
  <!-- End Team Section -->

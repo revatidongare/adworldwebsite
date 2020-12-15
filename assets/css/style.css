@@ -431,9 +431,9 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #intro h2 {
-  color: #fff;
-  margin-bottom: 30px;
-  font-size: 48px;
+  color: #eee;
+  margin-bottom: 0px;
+  font-size: 40px;
   font-weight: 700;
 }
 
@@ -1665,8 +1665,8 @@ section {
         width:150px;
     }
     .form-line{
-        padding-top:12px;
-        padding-bottom:12px;
+        padding-top:2px;
+        padding-bottom:2px;
     }
     .form-label-right{
         width:150px;
@@ -1711,8 +1711,8 @@ section {
     }
   
     .form-line {
-      margin-top: 12px;
-      margin-bottom: 12px;
+      margin-top: 2px;
+      margin-bottom: 2px;
     }
   
     .form-all {
@@ -1724,7 +1724,7 @@ section {
     .form-label.form-label-right,
     .form-label.form-label-left.form-label-auto,
     .form-label.form-label-right.form-label-auto {
-      width: 150px;
+      width: 4000px;
     }
   
     .form-all {

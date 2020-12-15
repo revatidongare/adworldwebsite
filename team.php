@@ -114,7 +114,7 @@
             <div class="member-info">
               <div class="member-info-content">
                 <h4>Dhaybar Surbhi</h4>
-                <span>Sales Executive</span>
+                <span>Business Development Executive</span>
                 <div class="social">
                   <a href=""><i class="fa fa-twitter"></i></a>
                   <a href=""><i class="fa fa-facebook"></i></a>
@@ -131,7 +131,7 @@
             <div class="member-info">
               <div class="member-info-content">
                 <h4>Pooja Abhynkar</h4>
-                <span>Grapic Designer</span>
+                <span>Graphic  Designer</span>
                 <div class="social">
                   <a href=""><i class="fa fa-twitter"></i></a>
                   <a href=""><i class="fa fa-facebook"></i></a>
