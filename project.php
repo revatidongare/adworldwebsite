@@ -35,7 +35,7 @@
         <div class="portfolio-details-container">
 
           <div class="owl-carousel portfolio-details-carousel">
-            
+          
             <img src="assets/img/portfolio/pp.png" class="img-fluid" alt="">
             
             <img src="assets/img/portfolio/whispering.png" class="img-fluid" alt="">

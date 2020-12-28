@@ -119,6 +119,7 @@ $to_email1 = 'contact@journeyworlddmc.com';
 
     if(isset($_POST['get_a_quote'])){
     // include 'config.php';
+       $website = $_POST['website'];
  $web = $_POST['q9_servicesYou'];
     
     $rname = $_POST['namee'];
@@ -148,7 +149,7 @@ JW Creations
   $headers = 'From: pallavi@journeyworlddmc.com';
 
   if (mail($to, $subject, $body, $headers)) {
-    header('location:p.php?p=3');
+    header('location:contactus.php?p=3');
   }
   else{
     echo("email failed to sent to user whose email is " . $email);
@@ -159,7 +160,8 @@ JW Creations
   //self mail
 $to_email1 = 'pallavi@journeyworlddmc.com';
   $subject1 = ' Journey World Creations site response  ';
-  $message1 = 'Resort Name: '.$rname.
+  $message1 = 'Website(If applicable)'.$website.
+  "\n".'Resort Name: '.$rname.
   "\n".'Quatation'. $web.
   "\n" . 'Name: '.$yname.
   "\n".'Address: '.$address.
@@ -179,7 +181,7 @@ $to_email1 = 'pallavi@journeyworlddmc.com';
     }
     else{
 
-      header("location:p.php?q=101");
+      header("location:contactus.php?q=101");
     }
 
 

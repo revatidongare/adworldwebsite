@@ -24,7 +24,7 @@
               <div class="container">
                 <h2 class="animate__animated animate__fadeInDown">We are professional</h2>
                 <p class="animate__animated animate__fadeInUp">“Believe passionately in what you do, and never knowingly compromise your standards and values. Act like a true professional, aiming for true excellence, and the money will follow.”</p>
-                <a href="p.php" class="btn-get-started scrollto animate__animated animate__fadeInUp">Get A QUOTE</a>
+               <!--  <a href="p.php" class="btn-get-started scrollto animate__animated animate__fadeInUp">Get A QUOTE</a> -->
               </div>
             </div>
           </div>
@@ -34,7 +34,7 @@
               <div class="container">
                 <h2 class="animate__animated animate__fadeInDown">Enjoy the business world with us</h2>
                 <p class="animate__animated animate__fadeInUp">“Business opportunities are like buses, there’s always another one coming.” </p>
-                <a href="p.php" class="btn-get-started scrollto animate__animated animate__fadeInUp">Get A QUOTE</a>
+               <!--  <a href="p.php" class="btn-get-started scrollto animate__animated animate__fadeInUp">Get A QUOTE</a> -->
               </div>
             </div>
           </div>
@@ -43,8 +43,8 @@
             <div class="carousel-container">
               <div class="container">
                 <h2 class="animate__animated animate__fadeInDown">We make your dreams happen</h2>
-                <p class="animate__animated animate__fadeInUp"> “The surest way to make your dreams come true is to live them.” “Dreams don't work unless you take action. The surest way to make your dreams come true is to live them.” </p>
-                <a href="p.php" class="btn-get-started scrollto animate__animated animate__fadeInUp">Get A QUOTE</a>
+                <p class="animate__animated animate__fadeInUp"> “The surest way to make your dreams come true is to live them.” “Dreams don't work unless you take action.” </p>
+               <!--  <a href="p.php" class="btn-get-started scrollto animate__animated animate__fadeInUp">Get A QUOTE</a> -->
               </div>
             </div>
           </div>
@@ -54,7 +54,7 @@
               <div class="container">
                 <h2 class="animate__animated animate__fadeInDown">Help us to help you</h2>
                 <p class="animate__animated animate__fadeInUp">“When we give cheerfully and accept gratefully, everyone is blessed.”</p>
-                <a href="p.php" class="btn-get-started scrollto animate__animated animate__fadeInUp">Get A QUOTE</a>
+               <!--  <a href="p.php" class="btn-get-started scrollto animate__animated animate__fadeInUp">Get A QUOTE</a> -->
               </div>
             </div>
           </div>
@@ -64,7 +64,7 @@
               <div class="container">
                 <h2 class="animate__animated animate__fadeInDown">All you need is a digital push</h2>
                 <p class="animate__animated animate__fadeInUp">To continue winning the internet marketing game, your content has to be more than just brilliant — it has to give the people consuming that content the ability to become a better version of themselves.”</p>
-                <a href="p.php" class="btn-get-started scrollto animate__animated animate__fadeInUp">Get A QUOTE</a>
+               <!--  <a href="p.php" class="btn-get-started scrollto animate__animated animate__fadeInUp">Get A QUOTE</a> -->
               </div>
             </div>
           </div>
@@ -115,32 +115,41 @@
     </section> --><!-- End Featured Services Section -->
 
     <!-- ======= About Us Section ======= -->
-    <section id="about">
-      <div class="container" data-aos="fade-up">
+     <section id="about">
+        <div class="container" data-aos="fade-up">
 
-        <header class="section-header">
-          <h3>About Us</h3>
-          <!-- <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p> -->
-        </header>
+          <header class="section-header">
+            <h3>About Us</h3>
+            <!--  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p> -->
+          </header>
 
-        <div class="row about-cols">
-
-          <div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
-            <div class="about-col">
-              <div class="img">
-                <img src="assets/img/about-mission.jpg" alt="" class="img-fluid">
-                <div class="icon"><i class="ion-ios-speedometer-outline"></i></div>
+          <div class="row about-cols">
+             <div class="col-lg-12" data-aos="fade-up" data-aos-delay="100">
+              <div class="about-col">
+               
+                <!-- <h2 class="title"><a href="#">About Us</a></h2> -->
+                <p>
+                 <b>Journey World Creations</b> have started with a thought of taking everyone on <b>A digital platform</b> & to ensure every customer is benefited out of the internet revolution in today's era.Pune based start up was set in the month of Feb 2013,where in single handedly <b>Paresh</b> saw a dream & made it possible for everyone who wanted to be on digital platform with a team of barely 02 members to start with.Based on a sustainable growth & response <b>Paresh</b> expanded its wings & currently located in <b>Kalyani Nagar,Pune
+                 </b>with a set up & <b>energetic team of 10+ members.</b>Planning to open its branches further very soon in<b>Tier 03 & tier 04 cities...</b>
+                </p>
               </div>
-              <h2 class="title"><a href="#">Our Mission</a></h2>
-              <p>
-                360 Degrees support & revolving in your market to build your business with
-                pride, honesty & hard work.
+            </div></div>
+    <div class="row about-cols">
+            <div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
+              <div class="about-col">
+                <div class="img">
+                  <img src="assets/img/mission.jpg" alt="" class="img-fluid">
+                  <div class="icon"><i class="ion-ios-speedometer-outline"></i></div>
+                </div>
+                <h2 class="title"><a href="#">Our Mission</a></h2>
+                <p>
+                  <b>To Provide Digital Support to every business in this revolution era of Itnernet Market.</b>
 
-              </p>
+                </p>
+              </div>
             </div>
-          </div>
 
-         <!--  <div class="col-md-4" data-aos="fade-up" data-aos-delay="200">
+          <!-- <div class="col-md-4" data-aos="fade-up" data-aos-delay="200">
             <div class="about-col">
               <div class="img">
                 <img src="assets/img/about-plan.jpg" alt="" class="img-fluid">
@@ -156,69 +165,67 @@
           <div class="col-lg-6" data-aos="fade-up" data-aos-delay="300">
             <div class="about-col">
               <div class="img">
-                <img src="assets/img/about-vision.jpg" alt="" class="img-fluid">
+                <img src="assets/img/plan.jpg" alt="" class="img-fluid">
                 <div class="icon"><i class="ion-ios-eye-outline"></i></div>
               </div>
               <h2 class="title"><a href="#">Our Vision</a></h2>
               <p>
-               Is to get every small-big business on digital & offline platform & making
-               them visible in their own market for growth in business.
+              <b>To be the number 01 Digital Media Company in India.</b>
              </p>
            </div>
          </div>
 
-       </div>
+</div>
 
      </div>
    </section><!-- End About Us Section -->
 
    <!-- ======= Services Section ======= -->
    <section id="services">
-    <div class="container" data-aos="fade-up">
+      <div class="container" data-aos="fade-up">
 
-      <header class="section-header wow fadeInUp">
-        <h3>Services</h3>
-        <p>Are you looking for an effective way to grow your business’ brand awareness, number of new customers, and website traffic? Then you should be on social media! Check out our social media marketing service and build a strong social media presence.</p>
-      </header>
+        <header class="section-header wow fadeInUp">
+          <h3>Online Services</h3>
+          <p>Are you looking for an effective way to grow your business’ brand awareness, number of new customers, and website traffic? Then you should be on social media! Check out our social media marketing service and build a strong social media presence.</p>
+        </header>
 
-      <div class="row">
-       <div class="col-lg-4 col-md-6 box" data-aos="fade-up" data-aos-delay="200">
-        <div class="icon"><i class="ion-ios-speedometer-outline"></i></div>
-        <h4 class="title"><a href="">Website Development</a></h4>
-        <p class="description"> Here is top web developers.We help brands educate, engage, and inspire their customers through
-        gamut of online services and powerful designs</p>
+        <div class="row">
+         <div class="col-lg-4 col-md-6 box" data-aos="fade-up" data-aos-delay="200">
+          <div class="icon"><i class="ion-ios-speedometer-outline"></i></div>
+          <h4 class="title"><a href="">Website Development</a></h4>
+          <p class="description">We make user friendly website for you.</p>
+        </div>
+        <div class="col-lg-4 col-md-6 box" data-aos="fade-up" data-aos-delay="300">
+          <div class="icon"><i class="ion-ios-barcode-outline"></i></div>
+          <h4 class="title"><a href="">App Development</a></h4>
+          <p class="description">Create and customize mobile and desktop application.</p>
+        </div>
+        <div class="col-lg-4 col-md-6 box" data-aos="fade-up" data-aos-delay="100">
+          <div class="icon"><i class="ion-ios-analytics-outline"></i></div>
+          <h4 class="title"><a href="">Social Media Marketing</a></h4>
+          <p class="description">Facebook,Instagram,YouTube Advertising Services</p>
+        </div>
+        <div class="col-lg-4 col-md-6 box" data-aos="fade-up" data-aos-delay="200">
+          <div class="icon"><i class="ion-ios-bookmarks-outline"></i></div>
+          <h4 class="title"><a href="">Google Business</a></h4>
+          <p class="description">Increase your visibility on google by using keywords.</p>
+        </div>
+        <div class="col-lg-4 col-md-6 box" data-aos="fade-up" data-aos-delay="300">
+          <div class="icon"><i class="ion-ios-paper-outline"></i></div>
+          <h4 class="title"><a href="">Blogs,Articles and Video logs</a></h4>
+          <p class="description">Increase your visibility on youtube and amongst active readers.</p>
+        </div>
+
+
+        <div class="col-lg-4 col-md-6 box" data-aos="fade-up" data-aos-delay="400">
+          <div class="icon"><i class="ion-ios-people-outline"></i></div>
+          <h4 class="title"><a href="">Video & Photography Services</a></h4>
+          <p class="description">Let pictures and videos speak on your behalf.</p>
+        </div>
+
       </div>
-      <div class="col-lg-4 col-md-6 box" data-aos="fade-up" data-aos-delay="300">
-        <div class="icon"><i class="ion-ios-barcode-outline"></i></div>
-        <h4 class="title"><a href="">App Development</a></h4>
-        <p class="description">The usage of mobile applications is pretty high conveying a detectable change in mobile computing. From mailing to gaming, eatery to travelling, health to entertainment.</p>
-      </div>
-      <div class="col-lg-4 col-md-6 box" data-aos="fade-up" data-aos-delay="100">
-        <div class="icon"><i class="ion-ios-analytics-outline"></i></div>
-        <h4 class="title"><a href="">Social Media Marketing</a></h4>
-        <p class="description">Facebook Advertising Services,Instagram Advertising Services,YouTube Advertising Services</p>
-      </div>
-      <div class="col-lg-4 col-md-6 box" data-aos="fade-up" data-aos-delay="200">
-        <div class="icon"><i class="ion-ios-bookmarks-outline"></i></div>
-        <h4 class="title"><a href="">Search Engine Optimization </a></h4>
-        <p class="description">Higher Search Engine Rankings,Quality Website Traffic,Measurable Results</p>
-      </div>
-      <div class="col-lg-4 col-md-6 box" data-aos="fade-up" data-aos-delay="300">
-        <div class="icon"><i class="ion-ios-paper-outline"></i></div>
-        <h4 class="title"><a href="">Video Production Services</a></h4>
-        <p class="description">Types Of Videos,Where To Place Your Videos,Professional Video Production Equipment</p>
-      </div>
 
-
-      <div class="col-lg-4 col-md-6 box" data-aos="fade-up" data-aos-delay="400">
-        <div class="icon"><i class="ion-ios-people-outline"></i></div>
-        <h4 class="title"><a href="">Photography Service</a></h4>
-        <p class="description">Logos Business Cards,Painting And Sketching,Web Templates Image Editing,Corporate Photography Services</p>
-      </div>
-
-    </div>
-
-
+    
   </section><!-- End Services Section -->
 
   <!-- ======= Call To Action Section ======= -->
@@ -330,9 +337,9 @@
       <div class=" col-lg-12">
         <ul id="portfolio-flters">
           <li data-filter="*" class="filter-active">All</li>
-          <li data-filter=".filter-app">App</li>
-          <li data-filter=".filter-card">Card</li>
-          <li data-filter=".filter-web">Web</li>
+          <li data-filter=".filter-app">Whispering Teaks</li>
+          <li data-filter=".filter-card">Ayurkutir</li>
+          <li data-filter=".filter-web">Vivid Pictures</li>
         </ul>
       </div>
     </div>
@@ -581,7 +588,7 @@
 
       </div>
     </section><!-- End Testimonials Section -->
-   <section id="team">
+    <section id="team">
     <div class="container" data-aos="fade-up">
       <div class="section-header">
         <h3>Meet the Team</h3>
@@ -612,8 +619,9 @@
             <img src="assets/img/vaibhav.jpg" class="img-fluid" alt="">
             <div class="member-info">
               <div class="member-info-content">
-                <h4>Vaibhav Kakirdeh</h4>
-                <span>Business Development Head</span>
+              <!--   <h4>Vaibhav Kakirdeh</h4> -->
+               <!--  <span>Business Development Head</span> -->
+               <span>Hii,I am Vaibhav and i like connecting with people.</span>
                 <div class="social">
                   <a href=""><i class="fa fa-twitter"></i></a>
                   <a href=""><i class="fa fa-facebook"></i></a>
@@ -685,8 +693,7 @@
             <div class="member-info">
               <div class="member-info-content">
                 <h4>Dhaybar Surbhi</h4>
-                <span>Business Development Executive
-                </span>
+                <span>Business Development Executive</span>
                 <div class="social">
                   <a href=""><i class="fa fa-twitter"></i></a>
                   <a href=""><i class="fa fa-facebook"></i></a>
@@ -703,7 +710,7 @@
             <div class="member-info">
               <div class="member-info-content">
                 <h4>Pooja Abhynkar</h4>
-                <span>Graphic Designer</span>
+                <span>Graphic  Designer</span>
                 <div class="social">
                   <a href=""><i class="fa fa-twitter"></i></a>
                   <a href=""><i class="fa fa-facebook"></i></a>

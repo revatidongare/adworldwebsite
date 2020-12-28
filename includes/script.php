@@ -11,26 +11,7 @@
   <script src="https://cdnjs.cloudflare.com/ajax/libs/punycode/1.4.1/punycode.min.js"></script>
 <script src="https://cdn.jotfor.ms/static/prototype.forms.js" type="text/javascript"></script>
 <script src="https://cdn.jotfor.ms/static/jotform.forms.js?3.3.22220" type="text/javascript"></script>
-<script type="text/javascript">
-  JotForm.init(function(){
-      setTimeout(function() {
-          $('input_3').hint('ex: myname@example.com');
-       }, 20);
-if (window.JotForm && JotForm.accessible) $('input_5').setAttribute('tabindex',0);
-if (window.JotForm && JotForm.accessible) $('input_8').setAttribute('tabindex',0);
-if (window.JotForm && JotForm.accessible) $('input_10').setAttribute('tabindex',0);
-JotForm.initCaptcha('input_13');
-$('input_13_reload').observe('click',function(){ JotForm.reloadCaptcha('input_13') })
-  JotForm.newDefaultTheme = false;
-  JotForm.extendsNewTheme = false;
-  JotForm.newPaymentUIForNewCreatedForms = false;
-    /*INIT-END*/
-  });
 
-   JotForm.prepareCalculationsOnTheFly([null,{"name":"fullName1","qid":"1","text":"Full Name:","type":"control_fullname"},{"name":"submit","qid":"2","text":"Submit","type":"control_button"},{"name":"email","qid":"3","text":"E-mail:","type":"control_email"},{"name":"phoneNumber","qid":"4","text":"Phone Number:","type":"control_phone"},{"name":"company5","qid":"5","text":"Company:","type":"control_textbox"},{"name":"clickTo","qid":"6","text":"CONTACT INFORMATION","type":"control_head"},{"name":"clickTo7","qid":"7","text":"PROJECT INFORMATION","type":"control_head"},{"name":"websiteif","qid":"8","text":"Website (if applicable):","type":"control_textbox"},{"name":"servicesYou","qid":"9","text":"Services you require:","type":"control_checkbox"},{"name":"quickOverview","qid":"10","text":"Quick overview of your project:","type":"control_textarea"},{"name":"doYou","qid":"11","text":"Do you have a budget in mind?:","type":"control_dropdown"},{"name":"howSoon","qid":"12","subLabel":"Please Select ^^","text":"How soon are you ready to start?:","type":"control_dropdown"},{"name":"enterThe13","qid":"13","text":"Enter the message as it's shown","type":"control_captcha"}]);
-   setTimeout(function() {
-JotForm.paymentExtrasOnTheFly([null,{"name":"fullName1","qid":"1","text":"Full Name:","type":"control_fullname"},{"name":"submit","qid":"2","text":"Submit","type":"control_button"},{"name":"email","qid":"3","text":"E-mail:","type":"control_email"},{"name":"phoneNumber","qid":"4","text":"Phone Number:","type":"control_phone"},{"name":"company5","qid":"5","text":"Company:","type":"control_textbox"},{"name":"clickTo","qid":"6","text":"CONTACT INFORMATION","type":"control_head"},{"name":"clickTo7","qid":"7","text":"PROJECT INFORMATION","type":"control_head"},{"name":"websiteif","qid":"8","text":"Website (if applicable):","type":"control_textbox"},{"name":"servicesYou","qid":"9","text":"Services you require:","type":"control_checkbox"},{"name":"quickOverview","qid":"10","text":"Quick overview of your project:","type":"control_textarea"},{"name":"doYou","qid":"11","text":"Do you have a budget in mind?:","type":"control_dropdown"},{"name":"howSoon","qid":"12","subLabel":"Please Select ^^","text":"How soon are you ready to start?:","type":"control_dropdown"},{"name":"enterThe13","qid":"13","text":"Enter the message as it's shown","type":"control_captcha"}]);}, 20); 
-</script>
 
   <!-- Template Main JS File -->
   <script src="assets/js/main.js"></script>
@@ -62,3 +43,4 @@ JotForm.paymentExtrasOnTheFly([null,{"name":"fullName1","qid":"1","text":"Full N
 
     <!-- Main JS-->
     <script src="assets/js/global.js"></script>
+    <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>

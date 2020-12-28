@@ -35,7 +35,7 @@ p {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Montserrat", sans-serif;
+  font-family:  -webkit-body;
   font-weight: 400;
   margin: 0 0 20px 0;
   padding: 0;
@@ -702,6 +702,7 @@ section {
   border-radius: 0 0 4px 4px;
   box-shadow: 0px 2px 12px rgba(0, 0, 0, 0.08);
   margin-bottom: 20px;
+      padding: 20px;
 }
 
 #about .about-col .img {
@@ -760,7 +761,7 @@ section {
 }
 
 #about .about-col p {
-  font-size: 14px;
+  font-size: 17px;
   line-height: 24px;
   color: #333;
   margin-bottom: 0;
@@ -1800,6 +1801,17 @@ section {
     margin-top: auto;
     margin-top: initial;
   }
+  b, strong {
+    font-weight: bolder;
+    color: darkslategrey;
+}
+#about .about-col p {
+    font-size: 17px;
+    line-height: 24px;
+    color: #333;
+    margin-bottom: 0;
+    padding: 0 2px 20px 20px;
+}
   
   /*PREFERENCES STYLE*//*__INSPECT_SEPERATOR__*/
     /* Injected CSS Code */

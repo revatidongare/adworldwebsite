@@ -21,9 +21,9 @@
       <div class=" col-lg-12">
         <ul id="portfolio-flters">
           <li data-filter="*" class="filter-active">All</li>
-          <li data-filter=".filter-app">App</li>
-          <li data-filter=".filter-card">Card</li>
-          <li data-filter=".filter-web">Web</li>
+          <li data-filter=".filter-app">Whispering Teaks</li>
+          <li data-filter=".filter-card">Ayurkutir</li>
+          <li data-filter=".filter-web">Vivid Pictures</li>
         </ul>
       </div>
     </div>

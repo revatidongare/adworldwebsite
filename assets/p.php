@@ -72,6 +72,9 @@
                 <div class="card-body">
                     <h2 style="color: #333" class="title">Get a Quote</h2>
                     <form  action="back.php" method="POST">
+                       <div class="input-group">
+                            <input class="input--style-1" type="text" placeholder="Website (if applicable)" name="website">
+                        </div>
                         <li class="form-line" data-type="control_checkbox" id="id_9">
                         <label class="form-label form-label-left form-label-auto" id="label_9" for="input_9">Please select the services you are looking for </label>
                         <div id="cid_9" class="form-input">
@@ -156,6 +159,7 @@
                             <div class="input-group">
                             <input class="input--style-1" type="text" placeholder="E-mail" name="mail">
                         </div>
+
                       
                         <div class="p-t-20">
                             <button class="btn btn--radius btn--green" name="get_a_quote" id="get_a_quote" type="submit">Submit</button>

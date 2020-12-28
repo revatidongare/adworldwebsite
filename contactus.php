@@ -78,7 +78,7 @@
               <div class="error-message"></div>
               <div class="sent-message">Your message has been sent. Thank you!</div>
             </div> -->
-            <div class="text-center"><button type="submit" style= "background: #18d26e;
+            <div class="text-center"><button  type="submit" style= "background: #18d26e;
   border: 0;
   padding: 10px 30px;
   color: #fff;
@@ -86,6 +86,19 @@
   cursor: pointer;" name="contact" id="contact">Send Message</button></div>
           </form>
         </div>
+        <!-- <div class="modal fade  bd-example-modal-lg" id="registermodal" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
+        <div class="modal-dialog" role="document">
+          <div class="modal-content modal-lg">
+            <p>www.journeyworldcreations.com</p>
+          <span>Thank you for contacting Journey World Creations. We will contact you shortly.</span>
+            
+            <div class="modal-footer">
+              <button type="button" class="btn btn-secondary" data-dismiss="modal">Ok</button>
+
+            </div>
+          </div>
+        </div>
+      </div> -->
 
       </div>
     </section>
@@ -100,3 +113,15 @@
 </body>
 
 </html>
+<?php
+  // include 'session.php'; 
+    if(isset($_GET['q'])) {      
+            if($_GET['q'] == 101){ ?>
+            <script>swal("Thank you for contacting Journey World Creations. We will contact you shortly.", {
+  buttons: false,
+  timer: 30
+  00,
+});</script>
+            <!--echo '<script> alert(" Successfully Logout..")</script>';-->
+<?php }
+} ?>

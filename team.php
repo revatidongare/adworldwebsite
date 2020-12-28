@@ -41,8 +41,9 @@
             <img src="assets/img/vaibhav.jpg" class="img-fluid" alt="">
             <div class="member-info">
               <div class="member-info-content">
-                <h4>Vaibhav Kakirdeh</h4>
-                <span>Business Development Head</span>
+              <!--   <h4>Vaibhav Kakirdeh</h4> -->
+               <!--  <span>Business Development Head</span> -->
+               <span>Hii,I am Vaibhav and i like connecting with people.</span>
                 <div class="social">
                   <a href=""><i class="fa fa-twitter"></i></a>
                   <a href=""><i class="fa fa-facebook"></i></a>

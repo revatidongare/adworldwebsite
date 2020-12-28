@@ -3,7 +3,10 @@
 
       <div class="row justify-content-center">
         <div class="col-xl-11 d-flex align-items-center">
-          <h1 class="logo mr-auto"><a href="index.php">JW Creations</a></h1>
+          <h1 class="logo mr-auto"><a href="index.php">Journey World Creations</a></h1>
+
+          <!-- <br><p>Digital a Media Comapany</p> -->
+
           <!-- <div class="width-logo sm-logo">
           <a href="" title="Travel" rel="home">
             <img src="assets\img\clients\logo.png" alt="Logo" width="474" height="130" class="logo_transparent_static">

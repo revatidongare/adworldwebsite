@@ -4,7 +4,7 @@
         <div class="row">
 
           <div class="col-lg-3 col-md-6 footer-info">
-            <h3>JW Creations</h3>
+            <h3>Journey World Creations</h3>
             <p>A social media management company with a concentration on increasing sales revenue. We also handle web design,App Development and search engine marketing. Get Started.</p>
           </div>
 
@@ -53,9 +53,9 @@
              <h6>Product Photography</h6>
           
 
-            <form action="" method="post">
+            <!-- <form action="" method="post">
               <input type="email" name="email"><input type="submit" value="Subscribe">
-            </form>
+            </form> -->
           </div>
 
         </div>
