@@ -26,12 +26,12 @@
               <div class="member-info-content">
                 <h4>Paresh More</h4>
                 <span>Director</span>
-                <div class="social">
+                <!-- <div class="social">
                   <a href=""><i class="fa fa-twitter"></i></a>
                   <a href=""><i class="fa fa-facebook"></i></a>
                   <a href=""><i class="fa fa-google-plus"></i></a>
                   <a href=""><i class="fa fa-linkedin"></i></a>
-                </div>
+                </div> -->
               </div>
             </div>
           </div>
@@ -41,15 +41,9 @@
             <img src="assets/img/vaibhav.jpg" class="img-fluid" alt="">
             <div class="member-info">
               <div class="member-info-content">
-              <!--   <h4>Vaibhav Kakirdeh</h4> -->
-               <!--  <span>Business Development Head</span> -->
-               <span>Hii,I am Vaibhav and i like connecting with people.</span>
-                <div class="social">
-                  <a href=""><i class="fa fa-twitter"></i></a>
-                  <a href=""><i class="fa fa-facebook"></i></a>
-                  <a href=""><i class="fa fa-google-plus"></i></a>
-                  <a href=""><i class="fa fa-linkedin"></i></a>
-                </div>
+                <h4>Vaibhav Kakirdeh</h4>
+                <span>Business Development Head</span>
+              
               </div>
             </div>
           </div>
@@ -61,12 +55,7 @@
               <div class="member-info-content">
                 <h4>Revti Dongare</h4>
                 <span>Team Leader</span>
-                <div class="social">
-                  <a href=""><i class="fa fa-twitter"></i></a>
-                  <a href=""><i class="fa fa-facebook"></i></a>
-                  <a href=""><i class="fa fa-google-plus"></i></a>
-                  <a href=""><i class="fa fa-linkedin"></i></a>
-                </div>
+                
               </div>
             </div>
           </div>
@@ -80,12 +69,6 @@
               <div class="member-info-content">
                 <h4>Pallavi Tambe</h4>
                 <span>Senior Developer</span>
-                <div class="social">
-                  <a href=""><i class="fa fa-twitter"></i></a>
-                  <a href=""><i class="fa fa-facebook"></i></a>
-                  <a href=""><i class="fa fa-google-plus"></i></a>
-                  <a href=""><i class="fa fa-linkedin"></i></a>
-                </div>
               </div>
             </div>
           </div>
@@ -96,14 +79,8 @@
             <img src="assets/img/3.jpg" class="img-fluid" alt="">
             <div class="member-info">
               <div class="member-info-content">
-                <h4>Baporikar Vaishanvi</h4>
+                <h4>Vaishanvi Baporikar</h4>
                 <span>Senior Developer</span>
-                <div class="social">
-                  <a href=""><i class="fa fa-twitter"></i></a>
-                  <a href=""><i class="fa fa-facebook"></i></a>
-                  <a href=""><i class="fa fa-google-plus"></i></a>
-                  <a href=""><i class="fa fa-linkedin"></i></a>
-                </div>
               </div>
             </div>
           </div>
@@ -114,14 +91,8 @@
             <img src="assets/img/team6.jpg" class="img-fluid" alt="">
             <div class="member-info">
               <div class="member-info-content">
-                <h4>Dhaybar Surbhi</h4>
-                <span>Business Development Executive</span>
-                <div class="social">
-                  <a href=""><i class="fa fa-twitter"></i></a>
-                  <a href=""><i class="fa fa-facebook"></i></a>
-                  <a href=""><i class="fa fa-google-plus"></i></a>
-                  <a href=""><i class="fa fa-linkedin"></i></a>
-                </div>
+                <h4>Surabhi Dhaybar</h4>
+                <span>Business Development Officer</span>
               </div>
             </div>
           </div>
@@ -131,14 +102,19 @@
             <img src="assets/img/poja.jpg" class="img-fluid" alt="">
             <div class="member-info">
               <div class="member-info-content">
-                <h4>Pooja Abhynkar</h4>
+                <h4>Pooja Abhyankar</h4>
                 <span>Graphic  Designer</span>
-                <div class="social">
-                  <a href=""><i class="fa fa-twitter"></i></a>
-                  <a href=""><i class="fa fa-facebook"></i></a>
-                  <a href=""><i class="fa fa-google-plus"></i></a>
-                  <a href=""><i class="fa fa-linkedin"></i></a>
-                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+         <div class="col-lg-3 col-md-6">
+          <div class="member" data-aos="fade-up" data-aos-delay="200">
+            <img src="assets/img/np.jpg" class="img-fluid" alt="">
+            <div class="member-info">
+              <div class="member-info-content">
+                <h4>Nrupali Patil</h4>
+                <span>Graphic  Designer</span>
               </div>
             </div>
           </div>

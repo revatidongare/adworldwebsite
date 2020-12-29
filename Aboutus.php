@@ -33,7 +33,7 @@
                 </div>
                 <h2 class="title"><a href="#">Our Mission</a></h2>
                 <p>
-                  <b>To Provide Digital Support to every business in this revolution era of Itnernet Market.</b>
+                  <b>To Provide Digital and Offiline Support to every business in this revolution era of Itnernet Market.</b>
 
                 </p>
               </div>

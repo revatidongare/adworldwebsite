@@ -336,7 +336,7 @@
     <div class="row" data-aos="fade-up" data-aos-delay="100">
       <div class=" col-lg-12">
         <ul id="portfolio-flters">
-          <li data-filter="*" class="filter-active">All</li>
+         <!--  <li data-filter="*" class="filter-active">All</li> -->
           <li data-filter=".filter-app">Whispering Teaks</li>
           <li data-filter=".filter-card">Ayurkutir</li>
           <li data-filter=".filter-web">Vivid Pictures</li>
@@ -349,139 +349,45 @@
       <div class="col-lg-4 col-md-6 portfolio-item filter-app">
         <div class="portfolio-wrap">
           <figure>
-            <img src="assets/img/portfolio/app1.jpg" class="img-fluid" alt="">
-            <a href="assets/img/portfolio/app1.jpg" data-lightbox="portfolio" data-title="App 1" class="link-preview"><i class="ion ion-eye"></i></a>
+            <img src="assets/img/portfolio/a4.JPG" class="img-fluid" alt="">
+            <a href="assets/img/portfolio/a4.JPG" data-lightbox="portfolio" data-title="App 1" class="link-preview"><i class="ion ion-eye"></i></a>
             <a href="portfolio-details.html" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
           </figure>
 
-          <div class="portfolio-info">
-            <h4><a href="portfolio-details.html">App 1</a></h4>
-            <p>App</p>
-          </div>
+          
         </div>
       </div>
 
       <div class="col-lg-4 col-md-6 portfolio-item filter-web">
         <div class="portfolio-wrap">
           <figure>
-            <img src="assets/img/portfolio/pp.png" class="img-fluid" alt="">
-            <a href="assets/img/portfolio/pp.png" class="link-preview venobox" data-gall="portfolioGallery" title="Web 3"><i class="ion ion-eye"></i></a>
+            <img src="assets/img/portfolio/v1.JPG" class="img-fluid" alt="">
+            <a href="assets/img/portfolio/v1.JPG" class="link-preview venobox" data-gall="portfolioGallery" title="Web 3"><i class="ion ion-eye"></i></a>
             <a href="http://www.journeyworlddmc.com/" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
           </figure>
 
-          <div class="portfolio-info">
-            <h4><a href="portfolio-details.html">Web 3</a></h4>
-            <p>Web</p>
-          </div>
+          
         </div>
       </div>
 
       <div class="col-lg-4 col-md-6 portfolio-item filter-app">
         <div class="portfolio-wrap">
           <figure>
-            <img src="assets/img/portfolio/app2.jpg" class="img-fluid" alt="">
-            <a href="assets/img/portfolio/app2.jpg" class="link-preview venobox" data-gall="portfolioGallery" title="App 2"><i class="ion ion-eye"></i></a>
+            <img src="assets/img/portfolio/slider-04.jpg" class="img-fluid" alt="">
+            <a href="assets/img/portfolio/slider-04.jpg" class="link-preview venobox" data-gall="portfolioGallery" title="App 2"><i class="ion ion-eye"></i></a>
             <a href="portfolio-details.html" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
           </figure>
-
-          <div class="portfolio-info">
-            <h4><a href="portfolio-details.html">App 2</a></h4>
-            <p>App</p>
-          </div>
-        </div>
-      </div>
-
-      <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-        <div class="portfolio-wrap">
-          <figure>
-            <img src="assets/img/portfolio/card2.jpg" class="img-fluid" alt="">
-            <a href="assets/img/portfolio/card2.jpg" class="link-preview venobox" data-gall="portfolioGallery" title="Card 2"><i class="ion ion-eye"></i></a>
-            <a href="portfolio-details.html" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
-          </figure>
-
-          <div class="portfolio-info">
-            <h4><a href="portfolio-details.html">Card 2</a></h4>
-            <p>Card</p>
-          </div>
-        </div>
-      </div>
-
-      <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-        <div class="portfolio-wrap">
-          <figure>
-            <img src="assets/img/portfolio/Farm.png" class="img-fluid" alt="">
-            <a href="assets/img/portfolio/Farm.png" class="link-preview venobox" data-gall="portfolioGallery" title="Web 2"><i class="ion ion-eye"></i></a>
-            <a href="http://farmerstudy.com/" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
-          </figure>
-
-          <div class="portfolio-info">
-            <h4><a href="portfolio-details.html">Web 2</a></h4>
-            <p>Web</p>
-          </div>
-        </div>
-      </div>
-
-      <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-        <div class="portfolio-wrap">
-          <figure>
-            <img src="assets/img/portfolio/app3.jpg" class="img-fluid" alt="">
-            <a href="assets/img/portfolio/app3.jpg" class="link-preview venobox" data-gall="portfolioGallery" title="App 3"><i class="ion ion-eye"></i></a>
-            <a href="portfolio-details.html" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
-          </figure>
-
-          <div class="portfolio-info">
-            <h4><a href="portfolio-details.html">App 3</a></h4>
-            <p>App</p>
-          </div>
-        </div>
-      </div>
-
-      <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-        <div class="portfolio-wrap">
-          <figure>
-            <img src="assets/img/portfolio/card1.jpg" class="img-fluid" alt="">
-            <a href="assets/img/portfolio/card1.jpg" class="link-preview venobox" data-gall="portfolioGallery" title="Card 1"><i class="ion ion-eye"></i></a>
-            <a href="portfolio-details.html" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
-          </figure>
-
-          <div class="portfolio-info">
-            <h4><a href="portfolio-details.html">Card 1</a></h4>
-            <p>Card</p>
-          </div>
-        </div>
-      </div>
-
-      <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-        <div class="portfolio-wrap">
-          <figure>
-            <img src="assets/img/portfolio/card3.jpg" class="img-fluid" alt="">
-            <a href="assets/img/portfolio/card3.jpg" class="link-preview venobox" data-gall="portfolioGallery" title="Card 3"><i class="ion ion-eye"></i></a>
-            <a href="portfolio-details.html" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
-          </figure>
-
-          <div class="portfolio-info">
-            <h4><a href="portfolio-details.html">Card 3</a></h4>
-            <p>Card</p>
-          </div>
-        </div>
-      </div>
-
-      <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-        <div class="portfolio-wrap">
-          <figure>
-            <img src="assets/img/portfolio/whispering.png" class="img-fluid" alt="">
-            <a href="assets/img/portfolio/whispering.png" class="link-preview venobox" data-gall="portfolioGallery" title="Web 1"><i class="ion ion-eye"></i></a>
-            <a href="http://www.journeyworlddmc.com/Whispringteaks/" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
-          </figure>
-
-          <div class="portfolio-info">
-            <h4><a href="portfolio-details.html">Web 1</a></h4>
-            <p>Web</p>
-          </div>
+         
         </div>
       </div>
 
     </div>
+    <div class="text-center"><a href="gallary.php"><button  type="submit" style= "background: #18d26e;
+  border: 0;
+  padding: 10px 30px;
+  color: #fff;
+  transition: 0.4s;
+  cursor: pointer;" name="contact" id="contact">View More</button></div>
 
   </div>
 </section><!-- End Portfolio Section -->
@@ -588,7 +494,7 @@
 
       </div>
     </section><!-- End Testimonials Section -->
-    <section id="team">
+   <section id="team">
     <div class="container" data-aos="fade-up">
       <div class="section-header">
         <h3>Meet the Team</h3>
@@ -604,12 +510,12 @@
               <div class="member-info-content">
                 <h4>Paresh More</h4>
                 <span>Director</span>
-                <div class="social">
+                <!-- <div class="social">
                   <a href=""><i class="fa fa-twitter"></i></a>
                   <a href=""><i class="fa fa-facebook"></i></a>
                   <a href=""><i class="fa fa-google-plus"></i></a>
                   <a href=""><i class="fa fa-linkedin"></i></a>
-                </div>
+                </div> -->
               </div>
             </div>
           </div>
@@ -619,15 +525,9 @@
             <img src="assets/img/vaibhav.jpg" class="img-fluid" alt="">
             <div class="member-info">
               <div class="member-info-content">
-              <!--   <h4>Vaibhav Kakirdeh</h4> -->
-               <!--  <span>Business Development Head</span> -->
-               <span>Hii,I am Vaibhav and i like connecting with people.</span>
-                <div class="social">
-                  <a href=""><i class="fa fa-twitter"></i></a>
-                  <a href=""><i class="fa fa-facebook"></i></a>
-                  <a href=""><i class="fa fa-google-plus"></i></a>
-                  <a href=""><i class="fa fa-linkedin"></i></a>
-                </div>
+                <h4>Vaibhav Kakirdeh</h4>
+                <span>Business Development Head</span>
+              
               </div>
             </div>
           </div>
@@ -639,12 +539,7 @@
               <div class="member-info-content">
                 <h4>Revti Dongare</h4>
                 <span>Team Leader</span>
-                <div class="social">
-                  <a href=""><i class="fa fa-twitter"></i></a>
-                  <a href=""><i class="fa fa-facebook"></i></a>
-                  <a href=""><i class="fa fa-google-plus"></i></a>
-                  <a href=""><i class="fa fa-linkedin"></i></a>
-                </div>
+                
               </div>
             </div>
           </div>
@@ -658,12 +553,6 @@
               <div class="member-info-content">
                 <h4>Pallavi Tambe</h4>
                 <span>Senior Developer</span>
-                <div class="social">
-                  <a href=""><i class="fa fa-twitter"></i></a>
-                  <a href=""><i class="fa fa-facebook"></i></a>
-                  <a href=""><i class="fa fa-google-plus"></i></a>
-                  <a href=""><i class="fa fa-linkedin"></i></a>
-                </div>
               </div>
             </div>
           </div>
@@ -674,14 +563,8 @@
             <img src="assets/img/3.jpg" class="img-fluid" alt="">
             <div class="member-info">
               <div class="member-info-content">
-                <h4>Baporikar Vaishanvi</h4>
+                <h4>Vaishanvi Baporikar</h4>
                 <span>Senior Developer</span>
-                <div class="social">
-                  <a href=""><i class="fa fa-twitter"></i></a>
-                  <a href=""><i class="fa fa-facebook"></i></a>
-                  <a href=""><i class="fa fa-google-plus"></i></a>
-                  <a href=""><i class="fa fa-linkedin"></i></a>
-                </div>
               </div>
             </div>
           </div>
@@ -692,14 +575,8 @@
             <img src="assets/img/team6.jpg" class="img-fluid" alt="">
             <div class="member-info">
               <div class="member-info-content">
-                <h4>Dhaybar Surbhi</h4>
-                <span>Business Development Executive</span>
-                <div class="social">
-                  <a href=""><i class="fa fa-twitter"></i></a>
-                  <a href=""><i class="fa fa-facebook"></i></a>
-                  <a href=""><i class="fa fa-google-plus"></i></a>
-                  <a href=""><i class="fa fa-linkedin"></i></a>
-                </div>
+                <h4>Surabhi Dhaybar</h4>
+                <span>Business Development Officer</span>
               </div>
             </div>
           </div>
@@ -709,14 +586,19 @@
             <img src="assets/img/poja.jpg" class="img-fluid" alt="">
             <div class="member-info">
               <div class="member-info-content">
-                <h4>Pooja Abhynkar</h4>
+                <h4>Pooja Abhyankar</h4>
                 <span>Graphic  Designer</span>
-                <div class="social">
-                  <a href=""><i class="fa fa-twitter"></i></a>
-                  <a href=""><i class="fa fa-facebook"></i></a>
-                  <a href=""><i class="fa fa-google-plus"></i></a>
-                  <a href=""><i class="fa fa-linkedin"></i></a>
-                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+         <div class="col-lg-3 col-md-6">
+          <div class="member" data-aos="fade-up" data-aos-delay="200">
+            <img src="assets/img/np.jpg" class="img-fluid" alt="">
+            <div class="member-info">
+              <div class="member-info-content">
+                <h4>Nrupali Patil</h4>
+                <span>Graphic  Designer</span>
               </div>
             </div>
           </div>

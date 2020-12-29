@@ -14,310 +14,330 @@
   <div class="container" data-aos="fade-up">
 
     <header class="section-header">
-      <h3 class="section-title">Our Gallary</h3>
+      <h3 class="section-title">Our Portfolio</h3>
     </header>
 
     <div class="row" data-aos="fade-up" data-aos-delay="100">
       <div class=" col-lg-12">
         <ul id="portfolio-flters">
-          <li data-filter="*" class="filter-active">All</li>
+          <!-- <li data-filter="*" class="filter-active">All</li> -->
           <li data-filter=".filter-app">Whispering Teaks</li>
           <li data-filter=".filter-card">Ayurkutir</li>
           <li data-filter=".filter-web">Vivid Pictures</li>
         </ul>
       </div>
     </div>
-
     <div class="row portfolio-container" data-aos="fade-up" data-aos-delay="200">
-
       <div class="col-lg-4 col-md-6 portfolio-item filter-app">
         <div class="portfolio-wrap">
           <figure>
-            <img src="assets/img/portfolio/app1.jpg" class="img-fluid" alt="">
-            <a href="assets/img/portfolio/app1.jpg" data-lightbox="portfolio" data-title="App 1" class="link-preview"><i class="ion ion-eye"></i></a>
+            <img src="assets/img/portfolio/slider-04.jpg" class="img-fluid" alt="">
+            <a href="assets/img/portfolio/slider-04.jpg" data-lightbox="portfolio" data-title="App 1" class="link-preview"><i class="ion ion-eye"></i></a>
             <a href="portfolio-details.html" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
           </figure>
-
-          <div class="portfolio-info">
-            <h4><a href="portfolio-details.html">App 1</a></h4>
-            <p>App</p>
-          </div>
         </div>
       </div>
-
-      <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+       <div class="col-lg-4 col-md-6 portfolio-item filter-app">
         <div class="portfolio-wrap">
           <figure>
-            <img src="assets/img/portfolio/pp.png" class="img-fluid" alt="">
-            <a href="assets/img/portfolio/pp.png" class="link-preview venobox" data-gall="portfolioGallery" title="Web 3"><i class="ion ion-eye"></i></a>
-            <a href="http://www.journeyworlddmc.com/" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
+            <img src="assets/img/portfolio/rest.jpg" class="img-fluid" alt="">
+            <a href="assets/img/portfolio/rest.jpg" class="link-preview venobox" data-gall="portfolioGallery" title="App 2"><i class="ion ion-eye"></i></a>
+            <a href="portfolio-details.html" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
           </figure>
-
-          <div class="portfolio-info">
-            <h4><a href="portfolio-details.html">Web 3</a></h4>
-            <p>Web</p>
-          </div>
         </div>
       </div>
-
+       <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+        <div class="portfolio-wrap">
+          <figure>
+            <img src="assets/img/portfolio/rest2.jpg" class="img-fluid" alt="">
+            <a href="assets/img/portfolio/rest2.jpg" class="link-preview venobox" data-gall="portfolioGallery" title="App 3"><i class="ion ion-eye"></i></a>
+            <a href="portfolio-details.html" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
+          </figure>
+        </div>
+      </div>
+        <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+        <div class="portfolio-wrap">
+          <figure>
+            <img src="assets/img/portfolio/room3.jpg" class="img-fluid" alt="">
+            <a href="assets/img/portfolio/room3.jpg" data-lightbox="portfolio" data-title="App 1" class="link-preview"><i class="ion ion-eye"></i></a>
+            <a href="portfolio-details.html" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
+          </figure>
+        </div>
+      </div>
+       <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+        <div class="portfolio-wrap">
+          <figure>
+            <img src="assets/img/portfolio/rest4.jpg" class="img-fluid" alt="">
+            <a href="assets/img/portfolio/rest4.jpg" data-lightbox="portfolio" data-title="App 1" class="link-preview"><i class="ion ion-eye"></i></a>
+            <a href="portfolio-details.html" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
+          </figure> 
+        </div>
+      </div>
+        <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+        <div class="portfolio-wrap">
+          <figure>
+            <img src="assets/img/portfolio/room2.jpg" class="img-fluid" alt="">
+            <a href="assets/img/portfolio/room2.jpg" data-lightbox="portfolio" data-title="App 1" class="link-preview"><i class="ion ion-eye"></i></a>
+            <a href="portfolio-details.html" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
+          </figure>
+        </div>
+      </div>
+       <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+        <div class="portfolio-wrap">
+          <figure>
+            <img src="assets/img/portfolio/rest5.jpg" class="img-fluid" alt="">
+            <a href="assets/img/portfolio/rest5.jpg" data-lightbox="portfolio" data-title="App 1" class="link-preview"><i class="ion ion-eye"></i></a>
+            <a href="portfolio-details.html" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
+          </figure>
+        </div>
+      </div>
+       
+      
+       <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+        <div class="portfolio-wrap">
+          <figure>
+            <img src="assets/img/portfolio/roomview.jpg" class="img-fluid" alt="">
+            <a href="assets/img/portfolio/roomview.jpg" data-lightbox="portfolio" data-title="App 1" class="link-preview"><i class="ion ion-eye"></i></a>
+            <a href="portfolio-details.html" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
+          </figure>
+        </div>
+      </div>
       <div class="col-lg-4 col-md-6 portfolio-item filter-app">
         <div class="portfolio-wrap">
           <figure>
-            <img src="assets/img/portfolio/app2.jpg" class="img-fluid" alt="">
-            <a href="assets/img/portfolio/app2.jpg" class="link-preview venobox" data-gall="portfolioGallery" title="App 2"><i class="ion ion-eye"></i></a>
+            <img src="assets/img/portfolio/rest6.jpg" class="img-fluid" alt="">
+            <a href="assets/img/portfolio/rest6.jpg" data-lightbox="portfolio" data-title="App 1" class="link-preview"><i class="ion ion-eye"></i></a>
             <a href="portfolio-details.html" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
           </figure>
-
-          <div class="portfolio-info">
-            <h4><a href="portfolio-details.html">App 2</a></h4>
-            <p>App</p>
-          </div>
         </div>
       </div>
-
+     
+     
       <div class="col-lg-4 col-md-6 portfolio-item filter-card">
         <div class="portfolio-wrap">
           <figure>
-            <img src="assets/img/portfolio/card2.jpg" class="img-fluid" alt="">
-            <a href="assets/img/portfolio/card2.jpg" class="link-preview venobox" data-gall="portfolioGallery" title="Card 2"><i class="ion ion-eye"></i></a>
+            <img src="assets/img/portfolio/a1.JPG" class="img-fluid" alt="">
+            <a href="assets/img/portfolio/a1.JPG" class="link-preview venobox" data-gall="portfolioGallery" title="Card 2"><i class="ion ion-eye"></i></a>
+            <a href="portfolio-details.html" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
+          </figure>   
+        </div>
+      </div>   
+      <div class="col-lg-4 col-md-6 portfolio-item filter-card">
+        <div class="portfolio-wrap">
+          <figure>
+            <img src="assets/img/portfolio/a2.JPG" class="img-fluid" alt="">
+            <a href="assets/img/portfolio/a2.JPG" class="link-preview venobox" data-gall="portfolioGallery" title="Card 1"><i class="ion ion-eye"></i></a>
             <a href="portfolio-details.html" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
           </figure>
 
-          <div class="portfolio-info">
-            <h4><a href="portfolio-details.html">Card 2</a></h4>
-            <p>Card</p>
-          </div>
+          
         </div>
       </div>
+      <div class="col-lg-4 col-md-6 portfolio-item filter-card">
+        <div class="portfolio-wrap">
+          <figure>
+            <img src="assets/img/portfolio/a3.JPG" class="img-fluid" alt="">
+            <a href="assets/img/portfolio/a3.JPG" class="link-preview venobox" data-gall="portfolioGallery" title="Card 2"><i class="ion ion-eye"></i></a>
+            <a href="portfolio-details.html" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
+          </figure>
+
+          
+        </div>
+      </div>
+      <div class="col-lg-4 col-md-6 portfolio-item filter-card">
+        <div class="portfolio-wrap">
+          <figure>
+            <img src="assets/img/portfolio/a4.JPG" class="img-fluid" alt="">
+            <a href="assets/img/portfolio/a4.JPG" class="link-preview venobox" data-gall="portfolioGallery" title="Card 3"><i class="ion ion-eye"></i></a>
+            <a href="portfolio-details.html" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
+          </figure>
+
+          
+        </div>
+      </div>
+       <div class="col-lg-4 col-md-6 portfolio-item filter-card">
+        <div class="portfolio-wrap">
+          <figure>
+            <img src="assets/img/portfolio/a5.JPG" class="img-fluid" alt="">
+            <a href="assets/img/portfolio/a5.JPG" class="link-preview venobox" data-gall="portfolioGallery" title="Card 2"><i class="ion ion-eye"></i></a>
+            <a href="portfolio-details.html" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
+          </figure>
+
+          
+        </div>
+      </div>
+      <div class="col-lg-4 col-md-6 portfolio-item filter-card">
+        <div class="portfolio-wrap">
+          <figure>
+            <img src="assets/img/portfolio/a6.JPG" class="img-fluid" alt="">
+            <a href="assets/img/portfolio/a6.JPG" class="link-preview venobox" data-gall="portfolioGallery" title="Card 2"><i class="ion ion-eye"></i></a>
+            <a href="portfolio-details.html" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
+          </figure>
+
+          
+        </div>
+      </div>
+       <div class="col-lg-4 col-md-6 portfolio-item filter-card">
+        <div class="portfolio-wrap">
+          <figure>
+            <img src="assets/img/portfolio/a7.JPG" class="img-fluid" alt="">
+            <a href="assets/img/portfolio/a7.JPG" class="link-preview venobox" data-gall="portfolioGallery" title="Card 2"><i class="ion ion-eye"></i></a>
+            <a href="portfolio-details.html" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
+          </figure>
+
+          
+        </div>
+      </div>
+      <div class="col-lg-4 col-md-6 portfolio-item filter-card">
+        <div class="portfolio-wrap">
+          <figure>
+            <img src="assets/img/portfolio/a8.JPG" class="img-fluid" alt="">
+            <a href="assets/img/portfolio/a8.JPG" class="link-preview venobox" data-gall="portfolioGallery" title="Card 2"><i class="ion ion-eye"></i></a>
+            <a href="portfolio-details.html" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
+          </figure>
+
+          
+        </div>
+      </div>
+      <div class="col-lg-4 col-md-6 portfolio-item filter-card">
+        <div class="portfolio-wrap">
+          <figure>
+            <img src="assets/img/portfolio/a9.JPG" class="img-fluid" alt="">
+            <a href="assets/img/portfolio/a9.JPG" class="link-preview venobox" data-gall="portfolioGallery" title="Card 2"><i class="ion ion-eye"></i></a>
+            <a href="portfolio-details.html" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
+          </figure>
+
+          
+        </div>
+      </div>
+       
+       
 
       <div class="col-lg-4 col-md-6 portfolio-item filter-web">
         <div class="portfolio-wrap">
           <figure>
-            <img src="assets/img/portfolio/Farm.png" class="img-fluid" alt="">
-            <a href="assets/img/portfolio/Farm.png" class="link-preview venobox" data-gall="portfolioGallery" title="Web 2"><i class="ion ion-eye"></i></a>
+            <img src="assets/img/portfolio/v1.JPG" class="img-fluid" alt="">
+            <a href="assets/img/portfolio/v1.JPG" class="link-preview venobox" data-gall="portfolioGallery" title="Web 2"><i class="ion ion-eye"></i></a>
             <a href="http://farmerstudy.com/" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
           </figure>
 
-          <div class="portfolio-info">
-            <h4><a href="portfolio-details.html">Web 2</a></h4>
-            <p>Web</p>
-          </div>
+          
         </div>
       </div>
-
-      <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+            <div class="col-lg-4 col-md-6 portfolio-item filter-web">
         <div class="portfolio-wrap">
           <figure>
-            <img src="assets/img/portfolio/app3.jpg" class="img-fluid" alt="">
-            <a href="assets/img/portfolio/app3.jpg" class="link-preview venobox" data-gall="portfolioGallery" title="App 3"><i class="ion ion-eye"></i></a>
-            <a href="portfolio-details.html" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
+            <img src="assets/img/portfolio/v3.jpeg" class="img-fluid" alt="">
+            <a href="assets/img/portfolio/v3.jpeg" class="link-preview venobox" data-gall="portfolioGallery" title="Web 3"><i class="ion ion-eye"></i></a>
+            <a href="http://www.journeyworlddmc.com/" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
           </figure>
 
-          <div class="portfolio-info">
-            <h4><a href="portfolio-details.html">App 3</a></h4>
-            <p>App</p>
-          </div>
-        </div>
-      </div>
-
-      <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-        <div class="portfolio-wrap">
-          <figure>
-            <img src="assets/img/portfolio/card1.jpg" class="img-fluid" alt="">
-            <a href="assets/img/portfolio/card1.jpg" class="link-preview venobox" data-gall="portfolioGallery" title="Card 1"><i class="ion ion-eye"></i></a>
-            <a href="portfolio-details.html" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
-          </figure>
-
-          <div class="portfolio-info">
-            <h4><a href="portfolio-details.html">Card 1</a></h4>
-            <p>Card</p>
-          </div>
-        </div>
-      </div>
-
-      <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-        <div class="portfolio-wrap">
-          <figure>
-            <img src="assets/img/portfolio/card3.jpg" class="img-fluid" alt="">
-            <a href="assets/img/portfolio/card3.jpg" class="link-preview venobox" data-gall="portfolioGallery" title="Card 3"><i class="ion ion-eye"></i></a>
-            <a href="portfolio-details.html" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
-          </figure>
-
-          <div class="portfolio-info">
-            <h4><a href="portfolio-details.html">Card 3</a></h4>
-            <p>Card</p>
-          </div>
-        </div>
-      </div>
-
-      <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-        <div class="portfolio-wrap">
-          <figure>
-            <img src="assets/img/portfolio/whispering.png" class="img-fluid" alt="">
-            <a href="assets/img/portfolio/whispering.png" class="link-preview venobox" data-gall="portfolioGallery" title="Web 1"><i class="ion ion-eye"></i></a>
-            <a href="http://www.journeyworlddmc.com/Whispringteaks/" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
-          </figure>
-
-          <div class="portfolio-info">
-            <h4><a href="portfolio-details.html"></a></h4>
-            <p>Web</p>
-          </div>
         </div>
       </div>
       <div class="col-lg-4 col-md-6 portfolio-item filter-web">
         <div class="portfolio-wrap">
           <figure>
-            <img src="assets/img/outdoor/semi.jpg" class="img-fluid" alt="">
-            <a href="assets/img/outdoor/semi.jpg" class="link-preview venobox" data-gall="portfolioGallery" title="Web 1"><i class="ion ion-eye"></i></a>
-            <a href="http://www.journeyworlddmc.com/Whispringteaks/" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
+            <img src="assets/img/portfolio/v2.JPG" class="img-fluid" alt="">
+            <a href="assets/img/portfolio/v2.JPG" class="link-preview venobox" data-gall="portfolioGallery" title="Web 3"><i class="ion ion-eye"></i></a>
+            <a href="http://www.journeyworlddmc.com/" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
           </figure>
 
-          <div class="portfolio-info">
-            <h4><a href="portfolio-details.html">Seminar 1</a></h4>
-            
-          </div>
         </div>
       </div>
       <div class="col-lg-4 col-md-6 portfolio-item filter-web">
         <div class="portfolio-wrap">
           <figure>
-            <img src="assets/img/outdoor/semi4.jpg" class="img-fluid" alt="">
-            <a href="assets/img/outdoor/semi4.jpg" class="link-preview venobox" data-gall="portfolioGallery" title="Web 1"><i class="ion ion-eye"></i></a>
-            <a href="http://www.journeyworlddmc.com/Whispringteaks/" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
+            <img src="assets/img/portfolio/v4.jpeg" class="img-fluid" alt="">
+            <a href="assets/img/portfolio/v4.jpeg" class="link-preview venobox" data-gall="portfolioGallery" title="Web 3"><i class="ion ion-eye"></i></a>
+            <a href="http://www.journeyworlddmc.com/" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
           </figure>
 
-          <div class="portfolio-info">
-            <h4><a href="portfolio-details.html">Seminar 2</a></h4>
-           
-          </div>
         </div>
       </div>
       <div class="col-lg-4 col-md-6 portfolio-item filter-web">
         <div class="portfolio-wrap">
           <figure>
-            <img src="assets/img/outdoor/semi7.jpg" class="img-fluid" alt="">
-            <a href="assets/img/outdoor/semi7.jpg" class="link-preview venobox" data-gall="portfolioGallery" title="Web 1"><i class="ion ion-eye"></i></a>
-            <a href="http://www.journeyworlddmc.com/Whispringteaks/" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
+            <img src="assets/img/portfolio/v11.jpeg" class="img-fluid" alt="">
+            <a href="assets/img/portfolio/v11.jpeg" class="link-preview venobox" data-gall="portfolioGallery" title="Web 3"><i class="ion ion-eye"></i></a>
+            <a href="http://www.journeyworlddmc.com/" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
           </figure>
 
-          <div class="portfolio-info">
-            <h4><a href="portfolio-details.html">Seminar 3</a></h4>
-           
-          </div>
         </div>
       </div>
       <div class="col-lg-4 col-md-6 portfolio-item filter-web">
         <div class="portfolio-wrap">
           <figure>
-            <img src="assets/img/outdoor/nasa.jpg" class="img-fluid" alt="">
-            <a href="assets/img/outdoor/nasa.jpg" class="link-preview venobox" data-gall="portfolioGallery" title="Web 1"><i class="ion ion-eye"></i></a>
-            <a href="http://www.journeyworlddmc.com/Whispringteaks/" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
+            <img src="assets/img/portfolio/v6.jpeg" class="img-fluid" alt="">
+            <a href="assets/img/portfolio/v6.jpeg" class="link-preview venobox" data-gall="portfolioGallery" title="Web 3"><i class="ion ion-eye"></i></a>
+            <a href="http://www.journeyworlddmc.com/" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
           </figure>
 
-          <div class="portfolio-info">
-            <h4><a href="portfolio-details.html">Nasa Visit</a></h4>
-           
-          </div>
         </div>
       </div>
       <div class="col-lg-4 col-md-6 portfolio-item filter-web">
         <div class="portfolio-wrap">
           <figure>
-            <img src="assets/img/outdoor/award8.jpg" class="img-fluid" alt="">
-            <a href="assets/img/outdoor/award8.jpg" class="link-preview venobox" data-gall="portfolioGallery" title="Web 1"><i class="ion ion-eye"></i></a>
-            <a href="http://www.journeyworlddmc.com/Whispringteaks/" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
+            <img src="assets/img/portfolio/v10.jpeg" class="img-fluid" alt="">
+            <a href="assets/img/portfolio/v10.jpeg" class="link-preview venobox" data-gall="portfolioGallery" title="Web 3"><i class="ion ion-eye"></i></a>
+            <a href="http://www.journeyworlddmc.com/" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
           </figure>
 
-          <div class="portfolio-info">
-            <h4><a href="portfolio-details.html">Seminar</a></h4>
-           
-          </div>
         </div>
       </div>
       <div class="col-lg-4 col-md-6 portfolio-item filter-web">
         <div class="portfolio-wrap">
           <figure>
-            <img src="assets/img/outdoor/sir3.jpg" class="img-fluid" alt="">
-            <a href="assets/img/outdoor/sir3.jpg" class="link-preview venobox" data-gall="portfolioGallery" title="Web 1"><i class="ion ion-eye"></i></a>
-            <a href="http://www.journeyworlddmc.com/Whispringteaks/" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
+            <img src="assets/img/portfolio/v5.jpeg" class="img-fluid" alt="">
+            <a href="assets/img/portfolio/v5.jpeg" class="link-preview venobox" data-gall="portfolioGallery" title="Web 3"><i class="ion ion-eye"></i></a>
+            <a href="http://www.journeyworlddmc.com/" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
           </figure>
 
-          <div class="portfolio-info">
-            <h4><a href="portfolio-details.html">Visit</a></h4>
-           
-          </div>
         </div>
       </div>
       <div class="col-lg-4 col-md-6 portfolio-item filter-web">
         <div class="portfolio-wrap">
           <figure>
-            <img src="assets/img/outdoor/uturn.jpg" class="img-fluid" alt="">
-            <a href="assets/img/outdoor/uturn.jpg" class="link-preview venobox" data-gall="portfolioGallery" title="Web 1"><i class="ion ion-eye"></i></a>
-            <a href="http://www.journeyworlddmc.com/Whispringteaks/" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
+            <img src="assets/img/portfolio/v9.jpeg" class="img-fluid" alt="">
+            <a href="assets/img/portfolio/v9.jpeg" class="link-preview venobox" data-gall="portfolioGallery" title="Web 3"><i class="ion ion-eye"></i></a>
+            <a href="http://www.journeyworlddmc.com/" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
           </figure>
 
-          <div class="portfolio-info">
-            <h4><a href="portfolio-details.html">Publish</a></h4>
-           
-          </div>
+        </div>
+      </div>
+         <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+        <div class="portfolio-wrap">
+          <figure>
+            <img src="assets/img/portfolio/v8.jpeg" class="img-fluid" alt="">
+            <a href="assets/img/portfolio/v8.jpeg" class="link-preview venobox" data-gall="portfolioGallery" title="Web 3"><i class="ion ion-eye"></i></a>
+            <a href="http://www.journeyworlddmc.com/" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
+          </figure>
+
         </div>
       </div>
       <div class="col-lg-4 col-md-6 portfolio-item filter-web">
         <div class="portfolio-wrap">
           <figure>
-            <img src="assets/img/outdoor/sir5.jpg" class="img-fluid" alt="">
-            <a href="assets/img/outdoor/sir5.jpg" class="link-preview venobox" data-gall="portfolioGallery" title="Web 1"><i class="ion ion-eye"></i></a>
-            <a href="http://www.journeyworlddmc.com/Whispringteaks/" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
+            <img src="assets/img/portfolio/v7.jpeg" class="img-fluid" alt="">
+            <a href="assets/img/portfolio/v7.jpeg" class="link-preview venobox" data-gall="portfolioGallery" title="Web 3"><i class="ion ion-eye"></i></a>
+            <a href="http://www.journeyworlddmc.com/" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
           </figure>
 
-          <div class="portfolio-info">
-            <h4><a href="portfolio-details.html">Publish</a></h4>
-           
-          </div>
         </div>
       </div>
-      <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+       <div class="col-lg-4 col-md-6 portfolio-item filter-web">
         <div class="portfolio-wrap">
           <figure>
-            <img src="assets/img/outdoor/seminar.jpg" class="img-fluid" alt="">
-            <a href="assets/img/outdoor/seminar.jpg" class="link-preview venobox" data-gall="portfolioGallery" title="Web 1"><i class="ion ion-eye"></i></a>
-            <a href="http://www.journeyworlddmc.com/Whispringteaks/" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
+            <img src="assets/img/portfolio/v12.jpeg" class="img-fluid" alt="">
+            <a href="assets/img/portfolio/v12.jpeg" class="link-preview venobox" data-gall="portfolioGallery" title="Web 3"><i class="ion ion-eye"></i></a>
+            <a href="http://www.journeyworlddmc.com/" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
           </figure>
 
-          <div class="portfolio-info">
-            <h4><a href="portfolio-details.html">Seminar</a></h4>
-           
-          </div>
         </div>
       </div>
-      <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-        <div class="portfolio-wrap">
-          <figure>
-            <img src="assets/img/outdoor/paresh.jpg" class="img-fluid" alt="">
-            <a href="assets/img/outdoor/paresh.jpg" class="link-preview venobox" data-gall="portfolioGallery" title="Web 1"><i class="ion ion-eye"></i></a>
-            <a href="http://www.journeyworlddmc.com/Whispringteaks/" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
-          </figure>
+       
+       
+    
 
-          <div class="portfolio-info">
-            <h4><a href="portfolio-details.html">Seminar</a></h4>
-           
-          </div>
-        </div>
-      </div>
-      <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-        <div class="portfolio-wrap">
-          <figure>
-            <img src="assets/img/outdoor/paresh1.jpg" class="img-fluid" alt="">
-            <a href="assets/img/outdoor/paresh1.jpg" class="link-preview venobox" data-gall="portfolioGallery" title="Web 1"><i class="ion ion-eye"></i></a>
-            <a href="http://www.journeyworlddmc.com/Whispringteaks/" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
-          </figure>
-
-          <div class="portfolio-info">
-            <h4><a href="portfolio-details.html">Seminar</a></h4>
-           
-          </div>
-        </div>
-      </div>
 
 
     </div>
