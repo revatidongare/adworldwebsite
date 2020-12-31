@@ -23,8 +23,9 @@
           <div class="col-md-4">
             <div class="contact-address">
               <i class="ion-ios-location-outline"></i>
-              <h3>Address</h3>
-              <address>A:Shop No. C , Commercial House,Jupiter CHS
+              <h3><a href="map.php" target="_blank">Address</h3>
+
+              <address><a href="map.php" target="_blank">A:Shop No. C , Commercial House,Jupiter CHS
 
                 Near Ganesh Temple,Kalyani Nagar
 
@@ -47,7 +48,7 @@
               <h3>Email</h3>
               
               <p><a href="mailto:info@example.com">paresh@journeyworlddmc.com</a></p>
-               <p><a href="mailto:info@example.com">contact@travelogimmigration.com</a></p>
+               <p><a href="mailto:info@example.com">contact@journeyworlddmc</a></p>
             </div>
           </div>
 

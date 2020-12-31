@@ -21,7 +21,7 @@
       <div class="row">
         <div class="col-lg-3 col-md-6">
           <div class="member" data-aos="fade-up" data-aos-delay="200">
-            <img src="assets/img/paresh.jpg" class="img-fluid" alt="">
+            <img src="assets/img/paresh1.jpg" class="img-fluid" alt="">
             <div class="member-info">
               <div class="member-info-content">
                 <h4>Paresh More</h4>

@@ -14,8 +14,8 @@
               <li><i class="ion-ios-arrow-right"></i> <a href="index.php">Home</a></li>
               <li><i class="ion-ios-arrow-right"></i> <a href="Aboutus.php">About us</a></li>
               <li><i class="ion-ios-arrow-right"></i> <a href="services.php">Services</a></li>
-              <li><i class="ion-ios-arrow-right"></i> <a href="#">Terms of service</a></li>
-              <li><i class="ion-ios-arrow-right"></i> <a href="#">Privacy policy</a></li>
+              <!-- <li><i class="ion-ios-arrow-right"></i> <a href="#">Terms of service</a></li> -->
+              <li><i class="ion-ios-arrow-right"></i> <a href="privacy.php">Privacy policy</a></li>
             </ul>
           </div>
 
@@ -27,16 +27,18 @@
                 Near Ganesh Temple,Kalyani Nagar
 
               Pune, India 411014 <br>
-              <strong>Phone:</strong>+91 9325656756<br>
-              <strong>Email:</strong> paresh@journeyworlddmc.com<br>
+              <a href="tel:+91 9325656756"><strong>Phone:</strong>+91 9325656756</a>
+              <!-- <strong>Phone:</strong>+91 9325656756<br> -->
+<a href="mailto:contact@journeyworlddmc.com"><strong></strong>contact@journeyworlddmc.com</a>
+              <!-- <strong></strong> contact@journeyworlddmc.com<br> -->
             </p>
 
             <div class="social-links">
-              <a href="#" class="twitter"><i class="fa fa-twitter"></i></a>
-              <a href="#" class="facebook"><i class="fa fa-facebook"></i></a>
-              <a href="#" class="instagram"><i class="fa fa-instagram"></i></a>
-              <a href="#" class="google-plus"><i class="fa fa-google-plus"></i></a>
-              <a href="#" class="linkedin"><i class="fa fa-linkedin"></i></a>
+              <!-- <a href="#" class="twitter"><i class="fa fa-twitter"></i></a> -->
+              <a href="https://www.facebook.com/jwcreations.jwcreations.5" target="_blank" class="facebook"><i class="fa fa-facebook"></i></a>
+              <a href="https://www.instagram.com/jw_creation/" target="-_blank" class="instagram"><i class="fa fa-instagram"></i></a>
+              <!-- <a href="#" class="google-plus"><i class="fa fa-google-plus"></i></a>
+              <a href="#" class="linkedin"><i class="fa fa-linkedin"></i></a> -->
             </div>
 
           </div>
@@ -44,7 +46,7 @@
 
 
           <div class="col-lg-3 col-md-6 footer-newsletter">
-            <h4>Our Newsletter</h4>
+            <h4>Our Services</h4>
             <h6>Web Design Services</h6>
             <h6>App Development Services</h6>
             <h6>Digital Advertising Services</h6>

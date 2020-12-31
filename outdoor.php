@@ -14,7 +14,7 @@
       <div class="container" data-aos="fade-up">
 
         <header class="section-header wow fadeInUp">
-          <h3>Outdoor Services</h3>
+          <h3>Offline Services</h3>
           <p>Outdoor marketing, quite simply, is marketing conducted outdoors. Billboards—whether print or digital—comprise about 65 percent of all outdoor marketing, while signs on buses and public benches are also popular locations. There are almost as many venues for outdoor marketing as there are physical locations</p>
         </header>
 

@@ -86,7 +86,7 @@ Dear ' . $name . ',
   Kind Regards,
 JW Creations
   ';
-  $headers = 'From: contact@journeyworlddmc.com';
+  $headers = 'From: vaibhav@journeyworlddmc.com';
 
   if (mail($to, $subject, $body, $headers)) {
     header('location:contactus.php?p=3');
@@ -98,7 +98,7 @@ JW Creations
   // email end
 
   //self mail
-$to_email1 = 'contact@journeyworlddmc.com';
+$to_email1 = 'vaibhav@journeyworlddmc.com';
   $subject1 = ' Journey World Creations site response  ';
   $message1 = 'User_name: '.$name.
   "\n" . 'email: '.$email.
@@ -146,7 +146,7 @@ Dear ' . $yname . ',
   Kind Regards,
 JW Creations
   ';
-  $headers = 'From: pallavi@journeyworlddmc.com';
+  $headers = 'From: vaibhav@journeyworlddmc.com';
 
   if (mail($to, $subject, $body, $headers)) {
     header('location:contactus.php?p=3');
@@ -158,7 +158,7 @@ JW Creations
   // email end
 
   //self mail
-$to_email1 = 'pallavi@journeyworlddmc.com';
+$to_email1 = 'vaibhav@journeyworlddmc.com';
   $subject1 = ' Journey World Creations site response  ';
   $message1 = 'Website(If applicable)'.$website.
   "\n".'Resort Name: '.$rname.
