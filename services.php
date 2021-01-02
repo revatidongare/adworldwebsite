@@ -22,7 +22,7 @@
          <div class="col-lg-4 col-md-6 box" data-aos="fade-up" data-aos-delay="200">
           <div class="icon"><i class="ion-ios-speedometer-outline"></i></div>
           <h4 class="title"><a href="">Website Development</a></h4>
-          <p class="description">We make user friendly website for you.</p>
+          <p class="description">We make Mobile & Desktop friendly website for you.</p>
         </div>
         <div class="col-lg-4 col-md-6 box" data-aos="fade-up" data-aos-delay="300">
           <div class="icon"><i class="ion-ios-barcode-outline"></i></div>

@@ -23,7 +23,7 @@
          <div class="row about-cols">
             <div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
               <div class="about-col">
-              <b>Journey World Creations</b> have started with a thought of taking everyone on <b>A digital platform</b> & to ensure every customer is benefited out of the internet revolution in today's era.Pune based start up was set in the month of Feb 2013,where in single handedly <b>Mr.Paresh More</b> saw a dream & made it possible for everyone who wanted to be on digital platform with a team of barely 02 members to start with.Based on a sustainable growth & response <b>Paresh</b> expanded its wings & currently located in <b>Kalyani Nagar,Pune</b>with a set up & <b>energetic team of 10+ members.</b>Planning to open its branches further very soon in<b>Tier 03 & tier 04 cities...</b>
+              <b>Journey World Creations</b> have started with a thought of taking everyone on <b>A digital platform</b> & to ensure every customer is benefited out of the internet revolution in today's era.<b>Pune</b> based start up was set in the month of Feb 2013,where in single handedly <b>Mr.Paresh More</b> saw a dream & made it possible for everyone who wanted to be on digital platform with a team of barely 02 members to start with.Based on a sustainable growth & response <b>Mr.Paresh More</b> expanded its wings & currently located in <b>Kalyani Nagar,Pune</b>with a set up & <b>Energetic team of 10+ members.</b>Planning to open its branches further very soon in<b>Tier 03 & tier 04 cities...</b>
               </div>
             </div>
             <div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
@@ -48,7 +48,7 @@
                 </div>
                 <h2 class="title"><a href="#">Our Mission</a></h2>
                 <p>
-                  To Provide Digital and Offiline Support to every business in this revolution era of Itnernet Market.
+                  To Provide Digital and Offiline Support to every business in this revolutionary era of Itnernet Market.
                 </p>
               </div>
             </div>

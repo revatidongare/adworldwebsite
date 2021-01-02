@@ -4,7 +4,7 @@
         <div class="row">
           <div class="col-lg-3 col-md-6 footer-info">
             <h3>Journey World Creations</h3>
-            <p>A social media management company with a concentration on increasing sales revenue. We also handle web design,App Development and search engine marketing. Get Started.</p>
+            <p>A Digital Media Company with a focus of increasing sales revenue or clients. We provide 360 degree solution Online & Offline Support to increase your visibility in the market.Lets Get Started.!!</p>
           </div>
           <div class="col-lg-3 col-md-6 footer-links">
             <h4>Useful Links</h4>
@@ -13,6 +13,14 @@
               <li><i class="ion-ios-arrow-right"></i> <a href="Aboutus.php">About us</a></li>
               <li><i class="ion-ios-arrow-right"></i> <a href="services.php">Services</a></li>
               <li><i class="ion-ios-arrow-right"></i> <a href="privacy.php">Privacy policy</a></li>
+               <div class="ion-ios-arrow-right"><button  type="submit" style= "
+  border: 0;
+  padding: 10px 10px;
+/*  margin-left: 10px;
+  margin-right: 10px;*/
+  color: #fff;
+  transition: 0.4s;
+  cursor: pointer;" name="contact" id="contact">Careers</button></div>
             </ul>
           </div>
           <div class="col-lg-3 col-md-6 footer-contact">
@@ -32,11 +40,11 @@
           </div>
           <div class="col-lg-3 col-md-6 footer-newsletter">
             <h4>Our Services</h4>
-            <h6>Web Design Services</h6>
-            <h6>App Development Services</h6>
-            <h6>Digital Advertising Services</h6>
-            <h6>Email Marketing</h6>
-            <h6>Product Photography</h6>
+            <h5>Web Design Services</h5>
+            <h5>App Development Services</h5>
+            <h5>Digital Advertising Services</h5>
+            <h5>Email Marketing</h5>
+            <h5>Product Photography</h5>
           </div>
         </div>
       </div>
@@ -49,3 +57,17 @@
       </div>
     </div>
   </footer>
+   <script>
+    document.querySelector('#contact').addEventListener('submit', function(e) {
+      var form = this;
+      
+      e.preventDefault();
+            swal("Thank you for contacting Journey World Creations. We will contact you shortly.", {
+  buttons: false,
+  timer: 30
+  00,
+});});</script>
+
+            <!--echo '<script> alert(" Successfully Logout..")</script>';-->
+
+ 

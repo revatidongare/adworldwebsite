@@ -73,8 +73,8 @@
          <div class="col-lg-12" data-aos="fade-up" data-aos-delay="100">
           <div class="about-col">
             <p>
-             <b>Journey World Creations</b> have started with a thought of taking everyone on <b>A digital platform</b> & to ensure every customer is benefited out of the internet revolution in today's era.Pune based start up was set in the month of Feb 2013,where in single handedly <b>Paresh</b> saw a dream & made it possible for everyone who wanted to be on digital platform with a team of barely 02 members to start with.Based on a sustainable growth & response <b>Paresh</b> expanded its wings & currently located in <b>Kalyani Nagar,Pune
-             </b>with a set up & <b>energetic team of 10+ members.</b>Planning to open its branches further very soon in<b>Tier 03 & tier 04 cities...</b>
+             <b>Journey World Creations</b> have started with a thought of taking everyone on <b>A digital platform</b> & to ensure every customer is benefited out of the internet revolution in today's era.<b>Pune</b> based start up was set in the month of Feb 2013,where in single handedly <b>Mr.Paresh More</b> saw a dream & made it possible for everyone who wanted to be on digital platform with a team of barely 02 members to start with.Based on a sustainable growth & response <b>Mr.Paresh More</b> expanded its wings & currently located in <b>Kalyani Nagar,Pune
+             </b>with a set up & <b>Energetic team of 10+ members.</b>Planning to open its branches further very soon in<b>Tier 03 & tier 04 cities...</b>
            </p>
          </div>
        </div>
@@ -88,7 +88,7 @@
             </div>
             <h2 class="title"><a href="#">Our Mission</a></h2>
             <p>
-              <b>To Provide Digital Support to every business in this revolution era of Itnernet Market.</b>
+              To Provide Digital Support to every business in this revolutionary era of Itnernet Market.
             </p>
           </div>
         </div>
@@ -100,7 +100,7 @@
             </div>
             <h2 class="title"><a href="#">Our Vision</a></h2>
             <p>
-              <b>To be the number 01 Digital Media Company in India.</b>
+              To be the number 01 Digital Media Company in India.
             </p>
           </div>
         </div>
@@ -117,7 +117,7 @@
        <div class="col-lg-4 col-md-6 box" data-aos="fade-up" data-aos-delay="200">
         <div class="icon"><i class="ion-ios-speedometer-outline"></i></div>
         <h4 class="title"><a href="">Website Development</a></h4>
-        <p class="description">We make user friendly website for you.</p>
+        <p class="description">We make Mobile & Desktop friendly website for you.</p>
       </div>
       <div class="col-lg-4 col-md-6 box" data-aos="fade-up" data-aos-delay="300">
         <div class="icon"><i class="ion-ios-barcode-outline"></i></div>
@@ -458,7 +458,7 @@ Your browser does not support the video tag.
           <div class="col-md-4">
             <div class="contact-address">
               <a href="map.php" target="_blank"><i class="ion-ios-location-outline"></a></i>
-              <h3><a href="map.php" target="_blank">Address</a></h3>
+              <h3><a href="map.php" target="_blank"><strong>Address</strong></a></h3>
 
               <address><a href="map.php" target="_blank">A:Shop No. C , Commercial House,Jupiter CHS
 
@@ -471,7 +471,7 @@ Your browser does not support the video tag.
           <div class="col-md-4">
             <div class="contact-phone">
               <i class="ion-ios-telephone-outline"></i>
-              <h3>Phone Number</h3>
+              <h3><strong>Phone Number</strong></h3>
               <p><a href="tel:+91 9325656756">+91 9325656756</a></p>
               <p><a href="tel:+91 9922514719">+91 9922514719</a></p>
             </div>
@@ -480,7 +480,7 @@ Your browser does not support the video tag.
           <div class="col-md-4">
             <div class="contact-email">
               <i class="ion-ios-email-outline"></i>
-              <h3>Email</h3>
+              <h3><strong>Email</strong></h3>
               
               <p><a href="mailto:paresh@journeyworlddmc.com">paresh@journeyworlddmc.com</a></p>
                <p><a href="mailto:contact@journeyworlddmc.com">contact@journeyworlddmc.com</a></p>

@@ -23,7 +23,7 @@
           <div class="col-md-4">
             <div class="contact-address">
              <a href="map.php" target="_blank"><i class="ion-ios-location-outline"></a></i>
-              <h3><a href="map.php" target="_blank">Address</a></h3>
+              <h3><a href="map.php" target="_blank"><strong>Address</strong></a></h3>
 
               <address><a href="map.php" target="_blank">A:Shop No. C , Commercial House,Jupiter CHS
 
@@ -36,7 +36,7 @@
           <div class="col-md-4">
             <div class="contact-phone">
               <i class="ion-ios-telephone-outline"></i>
-              <h3>Phone Number</h3>
+              <h3><strong>Phone Number</strong></h3>
               <p><a href="tel:+91 9325656756">+91 9325656756</a></p>
               <p><a href="tel:+91 9922514719">+91 9922514719</a></p>
             </div>
@@ -45,7 +45,7 @@
           <div class="col-md-4">
             <div class="contact-email">
               <i class="ion-ios-email-outline"></i>
-              <h3>Email</h3>
+              <h3><strong>Email</strong></h3>
               
               <p><a href="mailto:paresh@journeyworlddmc.com">paresh@journeyworlddmc.com</a></p>
                <p><a href="mailto:contact@journeyworlddmc.com">contact@journeyworlddmc.com</a></p>
