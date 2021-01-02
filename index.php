@@ -145,7 +145,98 @@
         <p class="description">Let pictures and videos speak on your behalf.</p>
       </div>
     </div>
-  </section><!-- End Services Section -->
+  </section>
+    <section id="portfolio" class="section-bg">
+    <div class="container" data-aos="fade-up">
+      <header class="section-header">
+        <h3 class="section-title">Our Portfolio</h3>
+      </header>
+      <div class="row" data-aos="fade-up" data-aos-delay="100">
+        <div class=" col-lg-12">
+          <ul id="portfolio-flters">
+           <li data-filter=".filter-app">Whispering Teaks</li>
+           <li data-filter=".filter-card">Ayurkutir</li>
+           <li data-filter=".filter-web">Vivid Pictures</li>
+         </ul>
+       </div>
+     </div>
+     <div class="row portfolio-container" data-aos="fade-up" data-aos-delay="200">
+       <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+        <div class="portfolio-wrap">
+          <figure>
+           <video width="320" height="240" controls>
+  <source src="assets/img/portfolio/jwcdone.mp4" type="video/mp4">
+  <source src="assets/img/portfolio/jwcdone.mp4" class="link-preview venobox" data-gall="portfolioGallery" type="video/mp4"><i class="ion ion-eye"></i>
+Your browser does not support the video tag.
+</video>
+          </figure>
+
+          
+        </div>
+      </div>
+      <!-- <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+        <div class="portfolio-wrap">
+          <figure>
+            <img src="assets/img/portfolio/a4.JPG" class="img-fluid" alt="">
+            <a href="assets/img/portfolio/a4.JPG" data-lightbox="portfolio" data-title="App 1" class="link-preview"><i class="ion ion-eye"></i></a>
+            <a href="portfolio-details.html" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
+          </figure>
+        </div>
+      </div> -->
+      <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+        <div class="portfolio-wrap">
+          <figure>
+            <img src="assets/img/portfolio/v1.JPG" class="img-fluid" alt="">
+            <a href="assets/img/portfolio/v1.JPG" class="link-preview venobox" data-gall="portfolioGallery" title="Web 3"><i class="ion ion-eye"></i></a>
+            <a href="http://www.journeyworlddmc.com/" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
+          </figure>
+        </div>
+      </div>
+      <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+        <div class="portfolio-wrap">
+          <figure>
+            <img src="assets/img/portfolio/slider-04.jpg" class="img-fluid" alt="">
+            <a href="assets/img/portfolio/slider-04.jpg" class="link-preview venobox" data-gall="portfolioGallery" title="App 2"><i class="ion ion-eye"></i></a>
+            <a href="portfolio-details.html" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
+          </figure>
+        </div>
+      </div>
+    </div>
+    <div class="text-center"><a href="gallary.php"><button  type="submit" style= "background: #18d26e;
+    border: 0;
+    padding: 10px 30px;
+    color: #fff;
+    transition: 0.4s;
+    cursor: pointer;" name="contact" id="contact">View More</button>
+  </div>
+  </div>
+</section><!-- End Services Section -->
+  <!-- End Skills Section -->
+  <section id="facts">
+    <div class="container" data-aos="fade-up">
+      <header class="section-header">
+        <h3>Facts</h3>
+      </header>
+      <div class="row counters">
+        <div class="col-lg-3 col-6 text-center">
+          <span data-toggle="counter-up">274</span>
+          <p>Clients</p>
+        </div>
+        <div class="col-lg-3 col-6 text-center">
+          <span data-toggle="counter-up">421</span>
+          <p>Projects Done</p>
+        </div>
+        <div class="col-lg-3 col-6 text-center">
+          <span data-toggle="counter-up">1,364</span>
+          <p>Our Followers</p>
+        </div>
+        <div class="col-lg-3 col-6 text-center">
+          <span data-toggle="counter-up">18</span>
+          <p>Hard Workers</p>
+        </div>
+      </div>
+    </div>
+  </section>
   <section id="skills">
     <div class="container" data-aos="fade-up">
       <header class="section-header">
@@ -184,84 +275,8 @@
         </div>
       </div>
     </div>
-  </section><!-- End Skills Section -->
-  <section id="facts">
-    <div class="container" data-aos="fade-up">
-      <header class="section-header">
-        <h3>Facts</h3>
-      </header>
-      <div class="row counters">
-        <div class="col-lg-3 col-6 text-center">
-          <span data-toggle="counter-up">274</span>
-          <p>Clients</p>
-        </div>
-        <div class="col-lg-3 col-6 text-center">
-          <span data-toggle="counter-up">421</span>
-          <p>Projects Done</p>
-        </div>
-        <div class="col-lg-3 col-6 text-center">
-          <span data-toggle="counter-up">1,364</span>
-          <p>Our Followers</p>
-        </div>
-        <div class="col-lg-3 col-6 text-center">
-          <span data-toggle="counter-up">18</span>
-          <p>Hard Workers</p>
-        </div>
-      </div>
-    </div>
   </section><!-- End Facts Section -->
-  <section id="portfolio" class="section-bg">
-    <div class="container" data-aos="fade-up">
-      <header class="section-header">
-        <h3 class="section-title">Our Portfolio</h3>
-      </header>
-      <div class="row" data-aos="fade-up" data-aos-delay="100">
-        <div class=" col-lg-12">
-          <ul id="portfolio-flters">
-           <li data-filter=".filter-app">Whispering Teaks</li>
-           <li data-filter=".filter-card">Ayurkutir</li>
-           <li data-filter=".filter-web">Vivid Pictures</li>
-         </ul>
-       </div>
-     </div>
-     <div class="row portfolio-container" data-aos="fade-up" data-aos-delay="200">
-      <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-        <div class="portfolio-wrap">
-          <figure>
-            <img src="assets/img/portfolio/a4.JPG" class="img-fluid" alt="">
-            <a href="assets/img/portfolio/a4.JPG" data-lightbox="portfolio" data-title="App 1" class="link-preview"><i class="ion ion-eye"></i></a>
-            <a href="portfolio-details.html" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
-          </figure>
-        </div>
-      </div>
-      <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-        <div class="portfolio-wrap">
-          <figure>
-            <img src="assets/img/portfolio/v1.JPG" class="img-fluid" alt="">
-            <a href="assets/img/portfolio/v1.JPG" class="link-preview venobox" data-gall="portfolioGallery" title="Web 3"><i class="ion ion-eye"></i></a>
-            <a href="http://www.journeyworlddmc.com/" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
-          </figure>
-        </div>
-      </div>
-      <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-        <div class="portfolio-wrap">
-          <figure>
-            <img src="assets/img/portfolio/slider-04.jpg" class="img-fluid" alt="">
-            <a href="assets/img/portfolio/slider-04.jpg" class="link-preview venobox" data-gall="portfolioGallery" title="App 2"><i class="ion ion-eye"></i></a>
-            <a href="portfolio-details.html" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
-          </figure>
-        </div>
-      </div>
-    </div>
-    <div class="text-center"><a href="gallary.php"><button  type="submit" style= "background: #18d26e;
-    border: 0;
-    padding: 10px 30px;
-    color: #fff;
-    transition: 0.4s;
-    cursor: pointer;" name="contact" id="contact">View More</button>
-  </div>
-  </div>
-</section><!-- End Portfolio Section -->
+<!-- End Portfolio Section -->
 <section id="clients">
   <div class="container" data-aos="zoom-in">
     <header class="section-header">
@@ -442,14 +457,14 @@
 
           <div class="col-md-4">
             <div class="contact-address">
-              <i class="ion-ios-location-outline"></i>
-              <h3><a href="map.php" target="_blank">Address</h3>
+              <a href="map.php" target="_blank"><i class="ion-ios-location-outline"></a></i>
+              <h3><a href="map.php" target="_blank">Address</a></h3>
 
               <address><a href="map.php" target="_blank">A:Shop No. C , Commercial House,Jupiter CHS
 
                 Near Ganesh Temple,Kalyani Nagar
 
-              Pune, India 411014</address>
+              Pune, India 411014</a></address>
             </div>
           </div>
 
@@ -457,8 +472,8 @@
             <div class="contact-phone">
               <i class="ion-ios-telephone-outline"></i>
               <h3>Phone Number</h3>
-              <p><a href="tel:+155895548855">+91 9325656756</a></p>
-              <p><a href="tel:+155895548855">+91 9922514719</a></p>
+              <p><a href="tel:+91 9325656756">+91 9325656756</a></p>
+              <p><a href="tel:+91 9922514719">+91 9922514719</a></p>
             </div>
           </div>
 
@@ -467,8 +482,8 @@
               <i class="ion-ios-email-outline"></i>
               <h3>Email</h3>
               
-              <p><a href="mailto:info@example.com">paresh@journeyworlddmc.com</a></p>
-               <p><a href="mailto:info@example.com">contact@journeyworlddmc</a></p>
+              <p><a href="mailto:paresh@journeyworlddmc.com">paresh@journeyworlddmc.com</a></p>
+               <p><a href="mailto:contact@journeyworlddmc.com">contact@journeyworlddmc.com</a></p>
             </div>
           </div>
 

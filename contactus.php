@@ -22,14 +22,14 @@
 
           <div class="col-md-4">
             <div class="contact-address">
-              <i class="ion-ios-location-outline"></i>
-              <h3><a href="map.php" target="_blank">Address</h3>
+             <a href="map.php" target="_blank"><i class="ion-ios-location-outline"></a></i>
+              <h3><a href="map.php" target="_blank">Address</a></h3>
 
               <address><a href="map.php" target="_blank">A:Shop No. C , Commercial House,Jupiter CHS
 
                 Near Ganesh Temple,Kalyani Nagar
 
-              Pune, India 411014</address>
+              Pune, India 411014</a></address>
             </div>
           </div>
 
@@ -37,8 +37,8 @@
             <div class="contact-phone">
               <i class="ion-ios-telephone-outline"></i>
               <h3>Phone Number</h3>
-              <p><a href="tel:+155895548855">+91 9325656756</a></p>
-              <p><a href="tel:+155895548855">+91 9922514719</a></p>
+              <p><a href="tel:+91 9325656756">+91 9325656756</a></p>
+              <p><a href="tel:+91 9922514719">+91 9922514719</a></p>
             </div>
           </div>
 
@@ -47,8 +47,8 @@
               <i class="ion-ios-email-outline"></i>
               <h3>Email</h3>
               
-              <p><a href="mailto:info@example.com">paresh@journeyworlddmc.com</a></p>
-               <p><a href="mailto:info@example.com">contact@journeyworlddmc</a></p>
+              <p><a href="mailto:paresh@journeyworlddmc.com">paresh@journeyworlddmc.com</a></p>
+               <p><a href="mailto:contact@journeyworlddmc.com">contact@journeyworlddmc.com</a></p>
             </div>
           </div>
 
